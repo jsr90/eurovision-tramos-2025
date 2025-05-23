@@ -1,0 +1,7712 @@
+{
+    "Albania": {
+        "jury": [
+            {
+                "country": "Armenia",
+                "rank": 17
+            },
+            {
+                "country": "Austria",
+                "rank": 4
+            },
+            {
+                "country": "Denmark",
+                "rank": 14
+            },
+            {
+                "country": "Estonia",
+                "rank": 18
+            },
+            {
+                "country": "Finland",
+                "rank": 21
+            },
+            {
+                "country": "France",
+                "rank": 1
+            },
+            {
+                "country": "Germany",
+                "rank": 12
+            },
+            {
+                "country": "Greece",
+                "rank": 5
+            },
+            {
+                "country": "Iceland",
+                "rank": 22
+            },
+            {
+                "country": "Israel",
+                "rank": 6
+            },
+            {
+                "country": "Italy",
+                "rank": 13
+            },
+            {
+                "country": "Latvia",
+                "rank": 11
+            },
+            {
+                "country": "Lithuania",
+                "rank": 24
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 16
+            },
+            {
+                "country": "Malta",
+                "rank": 23
+            },
+            {
+                "country": "Netherlands",
+                "rank": 8
+            },
+            {
+                "country": "Norway",
+                "rank": 20
+            },
+            {
+                "country": "Poland",
+                "rank": 25
+            },
+            {
+                "country": "Portugal",
+                "rank": 10
+            },
+            {
+                "country": "San Marino",
+                "rank": 9
+            },
+            {
+                "country": "Spain",
+                "rank": 2
+            },
+            {
+                "country": "Sweden",
+                "rank": 7
+            },
+            {
+                "country": "Switzerland",
+                "rank": 3
+            },
+            {
+                "country": "Ukraine",
+                "rank": 19
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 15
+            }
+        ],
+        "public": [
+            {
+                "country": "Armenia",
+                "rank": 18
+            },
+            {
+                "country": "Austria",
+                "rank": 5
+            },
+            {
+                "country": "Denmark",
+                "rank": 24
+            },
+            {
+                "country": "Estonia",
+                "rank": 6
+            },
+            {
+                "country": "Finland",
+                "rank": 13
+            },
+            {
+                "country": "France",
+                "rank": 11
+            },
+            {
+                "country": "Germany",
+                "rank": 7
+            },
+            {
+                "country": "Greece",
+                "rank": 1
+            },
+            {
+                "country": "Iceland",
+                "rank": 15
+            },
+            {
+                "country": "Israel",
+                "rank": 4
+            },
+            {
+                "country": "Italy",
+                "rank": 2
+            },
+            {
+                "country": "Latvia",
+                "rank": 19
+            },
+            {
+                "country": "Lithuania",
+                "rank": 17
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 3
+            },
+            {
+                "country": "Malta",
+                "rank": 22
+            },
+            {
+                "country": "Netherlands",
+                "rank": 10
+            },
+            {
+                "country": "Norway",
+                "rank": 12
+            },
+            {
+                "country": "Poland",
+                "rank": 16
+            },
+            {
+                "country": "Portugal",
+                "rank": 23
+            },
+            {
+                "country": "San Marino",
+                "rank": 8
+            },
+            {
+                "country": "Spain",
+                "rank": 21
+            },
+            {
+                "country": "Sweden",
+                "rank": 9
+            },
+            {
+                "country": "Switzerland",
+                "rank": 20
+            },
+            {
+                "country": "Ukraine",
+                "rank": 14
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 25
+            }
+        ]
+    },
+    "Armenia": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 22
+            },
+            {
+                "country": "Austria",
+                "rank": 3
+            },
+            {
+                "country": "Denmark",
+                "rank": 19
+            },
+            {
+                "country": "Estonia",
+                "rank": 9
+            },
+            {
+                "country": "Finland",
+                "rank": 2
+            },
+            {
+                "country": "France",
+                "rank": 1
+            },
+            {
+                "country": "Germany",
+                "rank": 12
+            },
+            {
+                "country": "Greece",
+                "rank": 15
+            },
+            {
+                "country": "Iceland",
+                "rank": 23
+            },
+            {
+                "country": "Israel",
+                "rank": 25
+            },
+            {
+                "country": "Italy",
+                "rank": 11
+            },
+            {
+                "country": "Latvia",
+                "rank": 10
+            },
+            {
+                "country": "Lithuania",
+                "rank": 14
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 24
+            },
+            {
+                "country": "Malta",
+                "rank": 6
+            },
+            {
+                "country": "Netherlands",
+                "rank": 8
+            },
+            {
+                "country": "Norway",
+                "rank": 18
+            },
+            {
+                "country": "Poland",
+                "rank": 21
+            },
+            {
+                "country": "Portugal",
+                "rank": 16
+            },
+            {
+                "country": "San Marino",
+                "rank": 20
+            },
+            {
+                "country": "Spain",
+                "rank": 17
+            },
+            {
+                "country": "Sweden",
+                "rank": 5
+            },
+            {
+                "country": "Switzerland",
+                "rank": 4
+            },
+            {
+                "country": "Ukraine",
+                "rank": 7
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 13
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 8
+            },
+            {
+                "country": "Austria",
+                "rank": 4
+            },
+            {
+                "country": "Denmark",
+                "rank": 22
+            },
+            {
+                "country": "Estonia",
+                "rank": 1
+            },
+            {
+                "country": "Finland",
+                "rank": 10
+            },
+            {
+                "country": "France",
+                "rank": 2
+            },
+            {
+                "country": "Germany",
+                "rank": 6
+            },
+            {
+                "country": "Greece",
+                "rank": 3
+            },
+            {
+                "country": "Iceland",
+                "rank": 23
+            },
+            {
+                "country": "Israel",
+                "rank": 11
+            },
+            {
+                "country": "Italy",
+                "rank": 13
+            },
+            {
+                "country": "Latvia",
+                "rank": 16
+            },
+            {
+                "country": "Lithuania",
+                "rank": 14
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 19
+            },
+            {
+                "country": "Malta",
+                "rank": 12
+            },
+            {
+                "country": "Netherlands",
+                "rank": 9
+            },
+            {
+                "country": "Norway",
+                "rank": 7
+            },
+            {
+                "country": "Poland",
+                "rank": 17
+            },
+            {
+                "country": "Portugal",
+                "rank": 15
+            },
+            {
+                "country": "San Marino",
+                "rank": 21
+            },
+            {
+                "country": "Spain",
+                "rank": 20
+            },
+            {
+                "country": "Sweden",
+                "rank": 5
+            },
+            {
+                "country": "Switzerland",
+                "rank": 18
+            },
+            {
+                "country": "Ukraine",
+                "rank": 25
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 24
+            }
+        ]
+    },
+    "Australia": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 14
+            },
+            {
+                "country": "Armenia",
+                "rank": 23
+            },
+            {
+                "country": "Austria",
+                "rank": 4
+            },
+            {
+                "country": "Denmark",
+                "rank": 7
+            },
+            {
+                "country": "Estonia",
+                "rank": 8
+            },
+            {
+                "country": "Finland",
+                "rank": 9
+            },
+            {
+                "country": "France",
+                "rank": 12
+            },
+            {
+                "country": "Germany",
+                "rank": 18
+            },
+            {
+                "country": "Greece",
+                "rank": 1
+            },
+            {
+                "country": "Iceland",
+                "rank": 15
+            },
+            {
+                "country": "Israel",
+                "rank": 22
+            },
+            {
+                "country": "Italy",
+                "rank": 21
+            },
+            {
+                "country": "Latvia",
+                "rank": 2
+            },
+            {
+                "country": "Lithuania",
+                "rank": 11
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 16
+            },
+            {
+                "country": "Malta",
+                "rank": 3
+            },
+            {
+                "country": "Netherlands",
+                "rank": 19
+            },
+            {
+                "country": "Norway",
+                "rank": 20
+            },
+            {
+                "country": "Poland",
+                "rank": 6
+            },
+            {
+                "country": "Portugal",
+                "rank": 25
+            },
+            {
+                "country": "San Marino",
+                "rank": 26
+            },
+            {
+                "country": "Spain",
+                "rank": 17
+            },
+            {
+                "country": "Sweden",
+                "rank": 5
+            },
+            {
+                "country": "Switzerland",
+                "rank": 10
+            },
+            {
+                "country": "Ukraine",
+                "rank": 24
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 13
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 7
+            },
+            {
+                "country": "Armenia",
+                "rank": 23
+            },
+            {
+                "country": "Austria",
+                "rank": 8
+            },
+            {
+                "country": "Denmark",
+                "rank": 13
+            },
+            {
+                "country": "Estonia",
+                "rank": 5
+            },
+            {
+                "country": "Finland",
+                "rank": 2
+            },
+            {
+                "country": "France",
+                "rank": 18
+            },
+            {
+                "country": "Germany",
+                "rank": 12
+            },
+            {
+                "country": "Greece",
+                "rank": 4
+            },
+            {
+                "country": "Iceland",
+                "rank": 11
+            },
+            {
+                "country": "Israel",
+                "rank": 1
+            },
+            {
+                "country": "Italy",
+                "rank": 14
+            },
+            {
+                "country": "Latvia",
+                "rank": 9
+            },
+            {
+                "country": "Lithuania",
+                "rank": 20
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 17
+            },
+            {
+                "country": "Malta",
+                "rank": 6
+            },
+            {
+                "country": "Netherlands",
+                "rank": 16
+            },
+            {
+                "country": "Norway",
+                "rank": 22
+            },
+            {
+                "country": "Poland",
+                "rank": 10
+            },
+            {
+                "country": "Portugal",
+                "rank": 25
+            },
+            {
+                "country": "San Marino",
+                "rank": 26
+            },
+            {
+                "country": "Spain",
+                "rank": 15
+            },
+            {
+                "country": "Sweden",
+                "rank": 3
+            },
+            {
+                "country": "Switzerland",
+                "rank": 24
+            },
+            {
+                "country": "Ukraine",
+                "rank": 21
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 19
+            }
+        ]
+    },
+    "Austria": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 18
+            },
+            {
+                "country": "Armenia",
+                "rank": 13
+            },
+            {
+                "country": "Denmark",
+                "rank": 3
+            },
+            {
+                "country": "Estonia",
+                "rank": 8
+            },
+            {
+                "country": "Finland",
+                "rank": 1
+            },
+            {
+                "country": "France",
+                "rank": 5
+            },
+            {
+                "country": "Germany",
+                "rank": 14
+            },
+            {
+                "country": "Greece",
+                "rank": 25
+            },
+            {
+                "country": "Iceland",
+                "rank": 16
+            },
+            {
+                "country": "Israel",
+                "rank": 12
+            },
+            {
+                "country": "Italy",
+                "rank": 15
+            },
+            {
+                "country": "Latvia",
+                "rank": 7
+            },
+            {
+                "country": "Lithuania",
+                "rank": 23
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 10
+            },
+            {
+                "country": "Malta",
+                "rank": 2
+            },
+            {
+                "country": "Netherlands",
+                "rank": 9
+            },
+            {
+                "country": "Norway",
+                "rank": 21
+            },
+            {
+                "country": "Poland",
+                "rank": 22
+            },
+            {
+                "country": "Portugal",
+                "rank": 19
+            },
+            {
+                "country": "San Marino",
+                "rank": 17
+            },
+            {
+                "country": "Spain",
+                "rank": 20
+            },
+            {
+                "country": "Sweden",
+                "rank": 6
+            },
+            {
+                "country": "Switzerland",
+                "rank": 11
+            },
+            {
+                "country": "Ukraine",
+                "rank": 24
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 4
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 5
+            },
+            {
+                "country": "Armenia",
+                "rank": 18
+            },
+            {
+                "country": "Denmark",
+                "rank": 20
+            },
+            {
+                "country": "Estonia",
+                "rank": 3
+            },
+            {
+                "country": "Finland",
+                "rank": 9
+            },
+            {
+                "country": "France",
+                "rank": 14
+            },
+            {
+                "country": "Germany",
+                "rank": 1
+            },
+            {
+                "country": "Greece",
+                "rank": 11
+            },
+            {
+                "country": "Iceland",
+                "rank": 10
+            },
+            {
+                "country": "Israel",
+                "rank": 4
+            },
+            {
+                "country": "Italy",
+                "rank": 2
+            },
+            {
+                "country": "Latvia",
+                "rank": 12
+            },
+            {
+                "country": "Lithuania",
+                "rank": 19
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 17
+            },
+            {
+                "country": "Malta",
+                "rank": 21
+            },
+            {
+                "country": "Netherlands",
+                "rank": 8
+            },
+            {
+                "country": "Norway",
+                "rank": 16
+            },
+            {
+                "country": "Poland",
+                "rank": 6
+            },
+            {
+                "country": "Portugal",
+                "rank": 25
+            },
+            {
+                "country": "San Marino",
+                "rank": 22
+            },
+            {
+                "country": "Spain",
+                "rank": 23
+            },
+            {
+                "country": "Sweden",
+                "rank": 7
+            },
+            {
+                "country": "Switzerland",
+                "rank": 15
+            },
+            {
+                "country": "Ukraine",
+                "rank": 13
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 24
+            }
+        ]
+    },
+    "Azerbaijan": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 13
+            },
+            {
+                "country": "Armenia",
+                "rank": 26
+            },
+            {
+                "country": "Austria",
+                "rank": 15
+            },
+            {
+                "country": "Denmark",
+                "rank": 17
+            },
+            {
+                "country": "Estonia",
+                "rank": 4
+            },
+            {
+                "country": "Finland",
+                "rank": 18
+            },
+            {
+                "country": "France",
+                "rank": 25
+            },
+            {
+                "country": "Germany",
+                "rank": 9
+            },
+            {
+                "country": "Greece",
+                "rank": 24
+            },
+            {
+                "country": "Iceland",
+                "rank": 23
+            },
+            {
+                "country": "Israel",
+                "rank": 1
+            },
+            {
+                "country": "Italy",
+                "rank": 2
+            },
+            {
+                "country": "Latvia",
+                "rank": 14
+            },
+            {
+                "country": "Lithuania",
+                "rank": 21
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 20
+            },
+            {
+                "country": "Malta",
+                "rank": 16
+            },
+            {
+                "country": "Netherlands",
+                "rank": 8
+            },
+            {
+                "country": "Norway",
+                "rank": 22
+            },
+            {
+                "country": "Poland",
+                "rank": 7
+            },
+            {
+                "country": "Portugal",
+                "rank": 5
+            },
+            {
+                "country": "San Marino",
+                "rank": 19
+            },
+            {
+                "country": "Spain",
+                "rank": 6
+            },
+            {
+                "country": "Sweden",
+                "rank": 12
+            },
+            {
+                "country": "Switzerland",
+                "rank": 10
+            },
+            {
+                "country": "Ukraine",
+                "rank": 3
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 11
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 4
+            },
+            {
+                "country": "Armenia",
+                "rank": 26
+            },
+            {
+                "country": "Austria",
+                "rank": 2
+            },
+            {
+                "country": "Denmark",
+                "rank": 21
+            },
+            {
+                "country": "Estonia",
+                "rank": 3
+            },
+            {
+                "country": "Finland",
+                "rank": 6
+            },
+            {
+                "country": "France",
+                "rank": 9
+            },
+            {
+                "country": "Germany",
+                "rank": 12
+            },
+            {
+                "country": "Greece",
+                "rank": 16
+            },
+            {
+                "country": "Iceland",
+                "rank": 19
+            },
+            {
+                "country": "Israel",
+                "rank": 1
+            },
+            {
+                "country": "Italy",
+                "rank": 15
+            },
+            {
+                "country": "Latvia",
+                "rank": 17
+            },
+            {
+                "country": "Lithuania",
+                "rank": 14
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 22
+            },
+            {
+                "country": "Malta",
+                "rank": 10
+            },
+            {
+                "country": "Netherlands",
+                "rank": 13
+            },
+            {
+                "country": "Norway",
+                "rank": 5
+            },
+            {
+                "country": "Poland",
+                "rank": 11
+            },
+            {
+                "country": "Portugal",
+                "rank": 18
+            },
+            {
+                "country": "San Marino",
+                "rank": 20
+            },
+            {
+                "country": "Spain",
+                "rank": 25
+            },
+            {
+                "country": "Sweden",
+                "rank": 8
+            },
+            {
+                "country": "Switzerland",
+                "rank": 24
+            },
+            {
+                "country": "Ukraine",
+                "rank": 7
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 23
+            }
+        ]
+    },
+    "Belgium": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 20
+            },
+            {
+                "country": "Armenia",
+                "rank": 23
+            },
+            {
+                "country": "Austria",
+                "rank": 1
+            },
+            {
+                "country": "Denmark",
+                "rank": 11
+            },
+            {
+                "country": "Estonia",
+                "rank": 2
+            },
+            {
+                "country": "Finland",
+                "rank": 7
+            },
+            {
+                "country": "France",
+                "rank": 14
+            },
+            {
+                "country": "Germany",
+                "rank": 10
+            },
+            {
+                "country": "Greece",
+                "rank": 16
+            },
+            {
+                "country": "Iceland",
+                "rank": 24
+            },
+            {
+                "country": "Israel",
+                "rank": 15
+            },
+            {
+                "country": "Italy",
+                "rank": 6
+            },
+            {
+                "country": "Latvia",
+                "rank": 4
+            },
+            {
+                "country": "Lithuania",
+                "rank": 12
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 22
+            },
+            {
+                "country": "Malta",
+                "rank": 19
+            },
+            {
+                "country": "Netherlands",
+                "rank": 8
+            },
+            {
+                "country": "Norway",
+                "rank": 18
+            },
+            {
+                "country": "Poland",
+                "rank": 9
+            },
+            {
+                "country": "Portugal",
+                "rank": 26
+            },
+            {
+                "country": "San Marino",
+                "rank": 25
+            },
+            {
+                "country": "Spain",
+                "rank": 21
+            },
+            {
+                "country": "Sweden",
+                "rank": 5
+            },
+            {
+                "country": "Switzerland",
+                "rank": 3
+            },
+            {
+                "country": "Ukraine",
+                "rank": 13
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 17
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 4
+            },
+            {
+                "country": "Armenia",
+                "rank": 18
+            },
+            {
+                "country": "Austria",
+                "rank": 8
+            },
+            {
+                "country": "Denmark",
+                "rank": 22
+            },
+            {
+                "country": "Estonia",
+                "rank": 9
+            },
+            {
+                "country": "Finland",
+                "rank": 12
+            },
+            {
+                "country": "France",
+                "rank": 3
+            },
+            {
+                "country": "Germany",
+                "rank": 15
+            },
+            {
+                "country": "Greece",
+                "rank": 5
+            },
+            {
+                "country": "Iceland",
+                "rank": 17
+            },
+            {
+                "country": "Israel",
+                "rank": 1
+            },
+            {
+                "country": "Italy",
+                "rank": 10
+            },
+            {
+                "country": "Latvia",
+                "rank": 19
+            },
+            {
+                "country": "Lithuania",
+                "rank": 16
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 13
+            },
+            {
+                "country": "Malta",
+                "rank": 25
+            },
+            {
+                "country": "Netherlands",
+                "rank": 6
+            },
+            {
+                "country": "Norway",
+                "rank": 21
+            },
+            {
+                "country": "Poland",
+                "rank": 2
+            },
+            {
+                "country": "Portugal",
+                "rank": 20
+            },
+            {
+                "country": "San Marino",
+                "rank": 24
+            },
+            {
+                "country": "Spain",
+                "rank": 14
+            },
+            {
+                "country": "Sweden",
+                "rank": 7
+            },
+            {
+                "country": "Switzerland",
+                "rank": 23
+            },
+            {
+                "country": "Ukraine",
+                "rank": 11
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 26
+            }
+        ]
+    },
+    "Croatia": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 19
+            },
+            {
+                "country": "Armenia",
+                "rank": 16
+            },
+            {
+                "country": "Austria",
+                "rank": 2
+            },
+            {
+                "country": "Denmark",
+                "rank": 20
+            },
+            {
+                "country": "Estonia",
+                "rank": 6
+            },
+            {
+                "country": "Finland",
+                "rank": 12
+            },
+            {
+                "country": "France",
+                "rank": 14
+            },
+            {
+                "country": "Germany",
+                "rank": 15
+            },
+            {
+                "country": "Greece",
+                "rank": 7
+            },
+            {
+                "country": "Iceland",
+                "rank": 24
+            },
+            {
+                "country": "Israel",
+                "rank": 5
+            },
+            {
+                "country": "Italy",
+                "rank": 1
+            },
+            {
+                "country": "Latvia",
+                "rank": 4
+            },
+            {
+                "country": "Lithuania",
+                "rank": 21
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 22
+            },
+            {
+                "country": "Malta",
+                "rank": 25
+            },
+            {
+                "country": "Netherlands",
+                "rank": 17
+            },
+            {
+                "country": "Norway",
+                "rank": 10
+            },
+            {
+                "country": "Poland",
+                "rank": 18
+            },
+            {
+                "country": "Portugal",
+                "rank": 13
+            },
+            {
+                "country": "San Marino",
+                "rank": 26
+            },
+            {
+                "country": "Spain",
+                "rank": 11
+            },
+            {
+                "country": "Sweden",
+                "rank": 8
+            },
+            {
+                "country": "Switzerland",
+                "rank": 3
+            },
+            {
+                "country": "Ukraine",
+                "rank": 9
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 23
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 2
+            },
+            {
+                "country": "Armenia",
+                "rank": 23
+            },
+            {
+                "country": "Austria",
+                "rank": 6
+            },
+            {
+                "country": "Denmark",
+                "rank": 26
+            },
+            {
+                "country": "Estonia",
+                "rank": 1
+            },
+            {
+                "country": "Finland",
+                "rank": 4
+            },
+            {
+                "country": "France",
+                "rank": 16
+            },
+            {
+                "country": "Germany",
+                "rank": 8
+            },
+            {
+                "country": "Greece",
+                "rank": 15
+            },
+            {
+                "country": "Iceland",
+                "rank": 10
+            },
+            {
+                "country": "Israel",
+                "rank": 12
+            },
+            {
+                "country": "Italy",
+                "rank": 5
+            },
+            {
+                "country": "Latvia",
+                "rank": 17
+            },
+            {
+                "country": "Lithuania",
+                "rank": 14
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 22
+            },
+            {
+                "country": "Malta",
+                "rank": 18
+            },
+            {
+                "country": "Netherlands",
+                "rank": 11
+            },
+            {
+                "country": "Norway",
+                "rank": 7
+            },
+            {
+                "country": "Poland",
+                "rank": 13
+            },
+            {
+                "country": "Portugal",
+                "rank": 25
+            },
+            {
+                "country": "San Marino",
+                "rank": 20
+            },
+            {
+                "country": "Spain",
+                "rank": 19
+            },
+            {
+                "country": "Sweden",
+                "rank": 3
+            },
+            {
+                "country": "Switzerland",
+                "rank": 21
+            },
+            {
+                "country": "Ukraine",
+                "rank": 9
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 24
+            }
+        ]
+    },
+    "Cyprus": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 7
+            },
+            {
+                "country": "Armenia",
+                "rank": 14
+            },
+            {
+                "country": "Austria",
+                "rank": 4
+            },
+            {
+                "country": "Denmark",
+                "rank": 19
+            },
+            {
+                "country": "Estonia",
+                "rank": 16
+            },
+            {
+                "country": "Finland",
+                "rank": 15
+            },
+            {
+                "country": "France",
+                "rank": 2
+            },
+            {
+                "country": "Germany",
+                "rank": 18
+            },
+            {
+                "country": "Greece",
+                "rank": 1
+            },
+            {
+                "country": "Iceland",
+                "rank": 17
+            },
+            {
+                "country": "Israel",
+                "rank": 6
+            },
+            {
+                "country": "Italy",
+                "rank": 8
+            },
+            {
+                "country": "Latvia",
+                "rank": 25
+            },
+            {
+                "country": "Lithuania",
+                "rank": 24
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 12
+            },
+            {
+                "country": "Malta",
+                "rank": 20
+            },
+            {
+                "country": "Netherlands",
+                "rank": 3
+            },
+            {
+                "country": "Norway",
+                "rank": 22
+            },
+            {
+                "country": "Poland",
+                "rank": 26
+            },
+            {
+                "country": "Portugal",
+                "rank": 11
+            },
+            {
+                "country": "San Marino",
+                "rank": 10
+            },
+            {
+                "country": "Spain",
+                "rank": 13
+            },
+            {
+                "country": "Sweden",
+                "rank": 9
+            },
+            {
+                "country": "Switzerland",
+                "rank": 5
+            },
+            {
+                "country": "Ukraine",
+                "rank": 23
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 21
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 18
+            },
+            {
+                "country": "Armenia",
+                "rank": 9
+            },
+            {
+                "country": "Austria",
+                "rank": 5
+            },
+            {
+                "country": "Denmark",
+                "rank": 26
+            },
+            {
+                "country": "Estonia",
+                "rank": 4
+            },
+            {
+                "country": "Finland",
+                "rank": 15
+            },
+            {
+                "country": "France",
+                "rank": 8
+            },
+            {
+                "country": "Germany",
+                "rank": 13
+            },
+            {
+                "country": "Greece",
+                "rank": 1
+            },
+            {
+                "country": "Iceland",
+                "rank": 20
+            },
+            {
+                "country": "Israel",
+                "rank": 2
+            },
+            {
+                "country": "Italy",
+                "rank": 12
+            },
+            {
+                "country": "Latvia",
+                "rank": 19
+            },
+            {
+                "country": "Lithuania",
+                "rank": 14
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 21
+            },
+            {
+                "country": "Malta",
+                "rank": 16
+            },
+            {
+                "country": "Netherlands",
+                "rank": 10
+            },
+            {
+                "country": "Norway",
+                "rank": 6
+            },
+            {
+                "country": "Poland",
+                "rank": 7
+            },
+            {
+                "country": "Portugal",
+                "rank": 23
+            },
+            {
+                "country": "San Marino",
+                "rank": 25
+            },
+            {
+                "country": "Spain",
+                "rank": 17
+            },
+            {
+                "country": "Sweden",
+                "rank": 11
+            },
+            {
+                "country": "Switzerland",
+                "rank": 24
+            },
+            {
+                "country": "Ukraine",
+                "rank": 3
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 22
+            }
+        ]
+    },
+    "Czechia": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 25
+            },
+            {
+                "country": "Armenia",
+                "rank": 13
+            },
+            {
+                "country": "Austria",
+                "rank": 22
+            },
+            {
+                "country": "Denmark",
+                "rank": 10
+            },
+            {
+                "country": "Estonia",
+                "rank": 18
+            },
+            {
+                "country": "Finland",
+                "rank": 17
+            },
+            {
+                "country": "France",
+                "rank": 3
+            },
+            {
+                "country": "Germany",
+                "rank": 1
+            },
+            {
+                "country": "Greece",
+                "rank": 16
+            },
+            {
+                "country": "Iceland",
+                "rank": 20
+            },
+            {
+                "country": "Israel",
+                "rank": 14
+            },
+            {
+                "country": "Italy",
+                "rank": 8
+            },
+            {
+                "country": "Latvia",
+                "rank": 11
+            },
+            {
+                "country": "Lithuania",
+                "rank": 6
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 19
+            },
+            {
+                "country": "Malta",
+                "rank": 9
+            },
+            {
+                "country": "Netherlands",
+                "rank": 4
+            },
+            {
+                "country": "Norway",
+                "rank": 5
+            },
+            {
+                "country": "Poland",
+                "rank": 24
+            },
+            {
+                "country": "Portugal",
+                "rank": 7
+            },
+            {
+                "country": "San Marino",
+                "rank": 26
+            },
+            {
+                "country": "Spain",
+                "rank": 21
+            },
+            {
+                "country": "Sweden",
+                "rank": 15
+            },
+            {
+                "country": "Switzerland",
+                "rank": 12
+            },
+            {
+                "country": "Ukraine",
+                "rank": 23
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 2
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 6
+            },
+            {
+                "country": "Armenia",
+                "rank": 16
+            },
+            {
+                "country": "Austria",
+                "rank": 7
+            },
+            {
+                "country": "Denmark",
+                "rank": 22
+            },
+            {
+                "country": "Estonia",
+                "rank": 5
+            },
+            {
+                "country": "Finland",
+                "rank": 8
+            },
+            {
+                "country": "France",
+                "rank": 17
+            },
+            {
+                "country": "Germany",
+                "rank": 10
+            },
+            {
+                "country": "Greece",
+                "rank": 11
+            },
+            {
+                "country": "Iceland",
+                "rank": 12
+            },
+            {
+                "country": "Israel",
+                "rank": 2
+            },
+            {
+                "country": "Italy",
+                "rank": 15
+            },
+            {
+                "country": "Latvia",
+                "rank": 13
+            },
+            {
+                "country": "Lithuania",
+                "rank": 14
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 23
+            },
+            {
+                "country": "Malta",
+                "rank": 19
+            },
+            {
+                "country": "Netherlands",
+                "rank": 18
+            },
+            {
+                "country": "Norway",
+                "rank": 9
+            },
+            {
+                "country": "Poland",
+                "rank": 3
+            },
+            {
+                "country": "Portugal",
+                "rank": 25
+            },
+            {
+                "country": "San Marino",
+                "rank": 24
+            },
+            {
+                "country": "Spain",
+                "rank": 21
+            },
+            {
+                "country": "Sweden",
+                "rank": 4
+            },
+            {
+                "country": "Switzerland",
+                "rank": 20
+            },
+            {
+                "country": "Ukraine",
+                "rank": 1
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 26
+            }
+        ]
+    },
+    "Denmark": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 17
+            },
+            {
+                "country": "Armenia",
+                "rank": 10
+            },
+            {
+                "country": "Austria",
+                "rank": 6
+            },
+            {
+                "country": "Estonia",
+                "rank": 16
+            },
+            {
+                "country": "Finland",
+                "rank": 5
+            },
+            {
+                "country": "France",
+                "rank": 14
+            },
+            {
+                "country": "Germany",
+                "rank": 18
+            },
+            {
+                "country": "Greece",
+                "rank": 11
+            },
+            {
+                "country": "Iceland",
+                "rank": 13
+            },
+            {
+                "country": "Israel",
+                "rank": 8
+            },
+            {
+                "country": "Italy",
+                "rank": 3
+            },
+            {
+                "country": "Latvia",
+                "rank": 1
+            },
+            {
+                "country": "Lithuania",
+                "rank": 22
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 15
+            },
+            {
+                "country": "Malta",
+                "rank": 12
+            },
+            {
+                "country": "Netherlands",
+                "rank": 21
+            },
+            {
+                "country": "Norway",
+                "rank": 20
+            },
+            {
+                "country": "Poland",
+                "rank": 24
+            },
+            {
+                "country": "Portugal",
+                "rank": 23
+            },
+            {
+                "country": "San Marino",
+                "rank": 25
+            },
+            {
+                "country": "Spain",
+                "rank": 19
+            },
+            {
+                "country": "Sweden",
+                "rank": 4
+            },
+            {
+                "country": "Switzerland",
+                "rank": 2
+            },
+            {
+                "country": "Ukraine",
+                "rank": 9
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 7
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 16
+            },
+            {
+                "country": "Armenia",
+                "rank": 23
+            },
+            {
+                "country": "Austria",
+                "rank": 8
+            },
+            {
+                "country": "Estonia",
+                "rank": 5
+            },
+            {
+                "country": "Finland",
+                "rank": 6
+            },
+            {
+                "country": "France",
+                "rank": 17
+            },
+            {
+                "country": "Germany",
+                "rank": 10
+            },
+            {
+                "country": "Greece",
+                "rank": 15
+            },
+            {
+                "country": "Iceland",
+                "rank": 2
+            },
+            {
+                "country": "Israel",
+                "rank": 3
+            },
+            {
+                "country": "Italy",
+                "rank": 13
+            },
+            {
+                "country": "Latvia",
+                "rank": 11
+            },
+            {
+                "country": "Lithuania",
+                "rank": 9
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 18
+            },
+            {
+                "country": "Malta",
+                "rank": 24
+            },
+            {
+                "country": "Netherlands",
+                "rank": 14
+            },
+            {
+                "country": "Norway",
+                "rank": 12
+            },
+            {
+                "country": "Poland",
+                "rank": 4
+            },
+            {
+                "country": "Portugal",
+                "rank": 22
+            },
+            {
+                "country": "San Marino",
+                "rank": 25
+            },
+            {
+                "country": "Spain",
+                "rank": 21
+            },
+            {
+                "country": "Sweden",
+                "rank": 1
+            },
+            {
+                "country": "Switzerland",
+                "rank": 19
+            },
+            {
+                "country": "Ukraine",
+                "rank": 7
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 20
+            }
+        ]
+    },
+    "Estonia": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 25
+            },
+            {
+                "country": "Armenia",
+                "rank": 12
+            },
+            {
+                "country": "Austria",
+                "rank": 4
+            },
+            {
+                "country": "Denmark",
+                "rank": 19
+            },
+            {
+                "country": "Finland",
+                "rank": 2
+            },
+            {
+                "country": "France",
+                "rank": 5
+            },
+            {
+                "country": "Germany",
+                "rank": 17
+            },
+            {
+                "country": "Greece",
+                "rank": 18
+            },
+            {
+                "country": "Iceland",
+                "rank": 24
+            },
+            {
+                "country": "Israel",
+                "rank": 11
+            },
+            {
+                "country": "Italy",
+                "rank": 7
+            },
+            {
+                "country": "Latvia",
+                "rank": 8
+            },
+            {
+                "country": "Lithuania",
+                "rank": 16
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 13
+            },
+            {
+                "country": "Malta",
+                "rank": 21
+            },
+            {
+                "country": "Netherlands",
+                "rank": 10
+            },
+            {
+                "country": "Norway",
+                "rank": 22
+            },
+            {
+                "country": "Poland",
+                "rank": 9
+            },
+            {
+                "country": "Portugal",
+                "rank": 15
+            },
+            {
+                "country": "San Marino",
+                "rank": 20
+            },
+            {
+                "country": "Spain",
+                "rank": 23
+            },
+            {
+                "country": "Sweden",
+                "rank": 3
+            },
+            {
+                "country": "Switzerland",
+                "rank": 1
+            },
+            {
+                "country": "Ukraine",
+                "rank": 14
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 6
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 20
+            },
+            {
+                "country": "Armenia",
+                "rank": 17
+            },
+            {
+                "country": "Austria",
+                "rank": 11
+            },
+            {
+                "country": "Denmark",
+                "rank": 22
+            },
+            {
+                "country": "Finland",
+                "rank": 2
+            },
+            {
+                "country": "France",
+                "rank": 13
+            },
+            {
+                "country": "Germany",
+                "rank": 8
+            },
+            {
+                "country": "Greece",
+                "rank": 25
+            },
+            {
+                "country": "Iceland",
+                "rank": 6
+            },
+            {
+                "country": "Israel",
+                "rank": 9
+            },
+            {
+                "country": "Italy",
+                "rank": 4
+            },
+            {
+                "country": "Latvia",
+                "rank": 3
+            },
+            {
+                "country": "Lithuania",
+                "rank": 10
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 18
+            },
+            {
+                "country": "Malta",
+                "rank": 24
+            },
+            {
+                "country": "Netherlands",
+                "rank": 7
+            },
+            {
+                "country": "Norway",
+                "rank": 12
+            },
+            {
+                "country": "Poland",
+                "rank": 23
+            },
+            {
+                "country": "Portugal",
+                "rank": 15
+            },
+            {
+                "country": "San Marino",
+                "rank": 16
+            },
+            {
+                "country": "Spain",
+                "rank": 21
+            },
+            {
+                "country": "Sweden",
+                "rank": 1
+            },
+            {
+                "country": "Switzerland",
+                "rank": 14
+            },
+            {
+                "country": "Ukraine",
+                "rank": 5
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 19
+            }
+        ]
+    },
+    "Finland": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 17
+            },
+            {
+                "country": "Armenia",
+                "rank": 12
+            },
+            {
+                "country": "Austria",
+                "rank": 1
+            },
+            {
+                "country": "Denmark",
+                "rank": 15
+            },
+            {
+                "country": "Estonia",
+                "rank": 7
+            },
+            {
+                "country": "France",
+                "rank": 3
+            },
+            {
+                "country": "Germany",
+                "rank": 10
+            },
+            {
+                "country": "Greece",
+                "rank": 8
+            },
+            {
+                "country": "Iceland",
+                "rank": 13
+            },
+            {
+                "country": "Israel",
+                "rank": 9
+            },
+            {
+                "country": "Italy",
+                "rank": 22
+            },
+            {
+                "country": "Latvia",
+                "rank": 11
+            },
+            {
+                "country": "Lithuania",
+                "rank": 14
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 20
+            },
+            {
+                "country": "Malta",
+                "rank": 4
+            },
+            {
+                "country": "Netherlands",
+                "rank": 18
+            },
+            {
+                "country": "Norway",
+                "rank": 19
+            },
+            {
+                "country": "Poland",
+                "rank": 23
+            },
+            {
+                "country": "Portugal",
+                "rank": 25
+            },
+            {
+                "country": "San Marino",
+                "rank": 21
+            },
+            {
+                "country": "Spain",
+                "rank": 16
+            },
+            {
+                "country": "Sweden",
+                "rank": 2
+            },
+            {
+                "country": "Switzerland",
+                "rank": 5
+            },
+            {
+                "country": "Ukraine",
+                "rank": 24
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 6
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 7
+            },
+            {
+                "country": "Armenia",
+                "rank": 20
+            },
+            {
+                "country": "Austria",
+                "rank": 4
+            },
+            {
+                "country": "Denmark",
+                "rank": 16
+            },
+            {
+                "country": "Estonia",
+                "rank": 3
+            },
+            {
+                "country": "France",
+                "rank": 14
+            },
+            {
+                "country": "Germany",
+                "rank": 6
+            },
+            {
+                "country": "Greece",
+                "rank": 18
+            },
+            {
+                "country": "Iceland",
+                "rank": 5
+            },
+            {
+                "country": "Israel",
+                "rank": 2
+            },
+            {
+                "country": "Italy",
+                "rank": 11
+            },
+            {
+                "country": "Latvia",
+                "rank": 8
+            },
+            {
+                "country": "Lithuania",
+                "rank": 10
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 13
+            },
+            {
+                "country": "Malta",
+                "rank": 17
+            },
+            {
+                "country": "Netherlands",
+                "rank": 12
+            },
+            {
+                "country": "Norway",
+                "rank": 15
+            },
+            {
+                "country": "Poland",
+                "rank": 22
+            },
+            {
+                "country": "Portugal",
+                "rank": 24
+            },
+            {
+                "country": "San Marino",
+                "rank": 23
+            },
+            {
+                "country": "Spain",
+                "rank": 19
+            },
+            {
+                "country": "Sweden",
+                "rank": 1
+            },
+            {
+                "country": "Switzerland",
+                "rank": 21
+            },
+            {
+                "country": "Ukraine",
+                "rank": 9
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 25
+            }
+        ]
+    },
+    "France": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 1
+            },
+            {
+                "country": "Armenia",
+                "rank": 2
+            },
+            {
+                "country": "Austria",
+                "rank": 7
+            },
+            {
+                "country": "Denmark",
+                "rank": 23
+            },
+            {
+                "country": "Estonia",
+                "rank": 21
+            },
+            {
+                "country": "Finland",
+                "rank": 12
+            },
+            {
+                "country": "Germany",
+                "rank": 22
+            },
+            {
+                "country": "Greece",
+                "rank": 3
+            },
+            {
+                "country": "Iceland",
+                "rank": 20
+            },
+            {
+                "country": "Israel",
+                "rank": 4
+            },
+            {
+                "country": "Italy",
+                "rank": 5
+            },
+            {
+                "country": "Latvia",
+                "rank": 17
+            },
+            {
+                "country": "Lithuania",
+                "rank": 24
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 16
+            },
+            {
+                "country": "Malta",
+                "rank": 11
+            },
+            {
+                "country": "Netherlands",
+                "rank": 8
+            },
+            {
+                "country": "Norway",
+                "rank": 14
+            },
+            {
+                "country": "Poland",
+                "rank": 10
+            },
+            {
+                "country": "Portugal",
+                "rank": 19
+            },
+            {
+                "country": "San Marino",
+                "rank": 18
+            },
+            {
+                "country": "Spain",
+                "rank": 6
+            },
+            {
+                "country": "Sweden",
+                "rank": 15
+            },
+            {
+                "country": "Switzerland",
+                "rank": 9
+            },
+            {
+                "country": "Ukraine",
+                "rank": 25
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 13
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 2
+            },
+            {
+                "country": "Armenia",
+                "rank": 3
+            },
+            {
+                "country": "Austria",
+                "rank": 9
+            },
+            {
+                "country": "Denmark",
+                "rank": 24
+            },
+            {
+                "country": "Estonia",
+                "rank": 14
+            },
+            {
+                "country": "Finland",
+                "rank": 19
+            },
+            {
+                "country": "Germany",
+                "rank": 15
+            },
+            {
+                "country": "Greece",
+                "rank": 7
+            },
+            {
+                "country": "Iceland",
+                "rank": 18
+            },
+            {
+                "country": "Israel",
+                "rank": 1
+            },
+            {
+                "country": "Italy",
+                "rank": 8
+            },
+            {
+                "country": "Latvia",
+                "rank": 17
+            },
+            {
+                "country": "Lithuania",
+                "rank": 20
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 10
+            },
+            {
+                "country": "Malta",
+                "rank": 25
+            },
+            {
+                "country": "Netherlands",
+                "rank": 12
+            },
+            {
+                "country": "Norway",
+                "rank": 23
+            },
+            {
+                "country": "Poland",
+                "rank": 4
+            },
+            {
+                "country": "Portugal",
+                "rank": 6
+            },
+            {
+                "country": "San Marino",
+                "rank": 21
+            },
+            {
+                "country": "Spain",
+                "rank": 11
+            },
+            {
+                "country": "Sweden",
+                "rank": 13
+            },
+            {
+                "country": "Switzerland",
+                "rank": 16
+            },
+            {
+                "country": "Ukraine",
+                "rank": 5
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 22
+            }
+        ]
+    },
+    "Georgia": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 23
+            },
+            {
+                "country": "Armenia",
+                "rank": 8
+            },
+            {
+                "country": "Austria",
+                "rank": 25
+            },
+            {
+                "country": "Denmark",
+                "rank": 2
+            },
+            {
+                "country": "Estonia",
+                "rank": 12
+            },
+            {
+                "country": "Finland",
+                "rank": 24
+            },
+            {
+                "country": "France",
+                "rank": 16
+            },
+            {
+                "country": "Germany",
+                "rank": 9
+            },
+            {
+                "country": "Greece",
+                "rank": 6
+            },
+            {
+                "country": "Iceland",
+                "rank": 15
+            },
+            {
+                "country": "Israel",
+                "rank": 10
+            },
+            {
+                "country": "Italy",
+                "rank": 1
+            },
+            {
+                "country": "Latvia",
+                "rank": 3
+            },
+            {
+                "country": "Lithuania",
+                "rank": 22
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 26
+            },
+            {
+                "country": "Malta",
+                "rank": 18
+            },
+            {
+                "country": "Netherlands",
+                "rank": 4
+            },
+            {
+                "country": "Norway",
+                "rank": 13
+            },
+            {
+                "country": "Poland",
+                "rank": 14
+            },
+            {
+                "country": "Portugal",
+                "rank": 11
+            },
+            {
+                "country": "San Marino",
+                "rank": 21
+            },
+            {
+                "country": "Spain",
+                "rank": 20
+            },
+            {
+                "country": "Sweden",
+                "rank": 17
+            },
+            {
+                "country": "Switzerland",
+                "rank": 7
+            },
+            {
+                "country": "Ukraine",
+                "rank": 5
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 19
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 8
+            },
+            {
+                "country": "Armenia",
+                "rank": 1
+            },
+            {
+                "country": "Austria",
+                "rank": 6
+            },
+            {
+                "country": "Denmark",
+                "rank": 24
+            },
+            {
+                "country": "Estonia",
+                "rank": 3
+            },
+            {
+                "country": "Finland",
+                "rank": 11
+            },
+            {
+                "country": "France",
+                "rank": 18
+            },
+            {
+                "country": "Germany",
+                "rank": 9
+            },
+            {
+                "country": "Greece",
+                "rank": 14
+            },
+            {
+                "country": "Iceland",
+                "rank": 20
+            },
+            {
+                "country": "Israel",
+                "rank": 4
+            },
+            {
+                "country": "Italy",
+                "rank": 13
+            },
+            {
+                "country": "Latvia",
+                "rank": 12
+            },
+            {
+                "country": "Lithuania",
+                "rank": 5
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 23
+            },
+            {
+                "country": "Malta",
+                "rank": 17
+            },
+            {
+                "country": "Netherlands",
+                "rank": 16
+            },
+            {
+                "country": "Norway",
+                "rank": 7
+            },
+            {
+                "country": "Poland",
+                "rank": 15
+            },
+            {
+                "country": "Portugal",
+                "rank": 21
+            },
+            {
+                "country": "San Marino",
+                "rank": 25
+            },
+            {
+                "country": "Spain",
+                "rank": 22
+            },
+            {
+                "country": "Sweden",
+                "rank": 10
+            },
+            {
+                "country": "Switzerland",
+                "rank": 19
+            },
+            {
+                "country": "Ukraine",
+                "rank": 2
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 26
+            }
+        ]
+    },
+    "Germany": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 21
+            },
+            {
+                "country": "Armenia",
+                "rank": 16
+            },
+            {
+                "country": "Austria",
+                "rank": 1
+            },
+            {
+                "country": "Denmark",
+                "rank": 18
+            },
+            {
+                "country": "Estonia",
+                "rank": 15
+            },
+            {
+                "country": "Finland",
+                "rank": 12
+            },
+            {
+                "country": "France",
+                "rank": 2
+            },
+            {
+                "country": "Greece",
+                "rank": 5
+            },
+            {
+                "country": "Iceland",
+                "rank": 25
+            },
+            {
+                "country": "Israel",
+                "rank": 8
+            },
+            {
+                "country": "Italy",
+                "rank": 6
+            },
+            {
+                "country": "Latvia",
+                "rank": 17
+            },
+            {
+                "country": "Lithuania",
+                "rank": 20
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 14
+            },
+            {
+                "country": "Malta",
+                "rank": 3
+            },
+            {
+                "country": "Netherlands",
+                "rank": 13
+            },
+            {
+                "country": "Norway",
+                "rank": 10
+            },
+            {
+                "country": "Poland",
+                "rank": 9
+            },
+            {
+                "country": "Portugal",
+                "rank": 22
+            },
+            {
+                "country": "San Marino",
+                "rank": 23
+            },
+            {
+                "country": "Spain",
+                "rank": 19
+            },
+            {
+                "country": "Sweden",
+                "rank": 7
+            },
+            {
+                "country": "Switzerland",
+                "rank": 4
+            },
+            {
+                "country": "Ukraine",
+                "rank": 24
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 11
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 3
+            },
+            {
+                "country": "Armenia",
+                "rank": 18
+            },
+            {
+                "country": "Austria",
+                "rank": 5
+            },
+            {
+                "country": "Denmark",
+                "rank": 21
+            },
+            {
+                "country": "Estonia",
+                "rank": 7
+            },
+            {
+                "country": "Finland",
+                "rank": 12
+            },
+            {
+                "country": "France",
+                "rank": 16
+            },
+            {
+                "country": "Greece",
+                "rank": 2
+            },
+            {
+                "country": "Iceland",
+                "rank": 10
+            },
+            {
+                "country": "Israel",
+                "rank": 1
+            },
+            {
+                "country": "Italy",
+                "rank": 9
+            },
+            {
+                "country": "Latvia",
+                "rank": 14
+            },
+            {
+                "country": "Lithuania",
+                "rank": 13
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 17
+            },
+            {
+                "country": "Malta",
+                "rank": 24
+            },
+            {
+                "country": "Netherlands",
+                "rank": 11
+            },
+            {
+                "country": "Norway",
+                "rank": 20
+            },
+            {
+                "country": "Poland",
+                "rank": 4
+            },
+            {
+                "country": "Portugal",
+                "rank": 23
+            },
+            {
+                "country": "San Marino",
+                "rank": 25
+            },
+            {
+                "country": "Spain",
+                "rank": 19
+            },
+            {
+                "country": "Sweden",
+                "rank": 6
+            },
+            {
+                "country": "Switzerland",
+                "rank": 15
+            },
+            {
+                "country": "Ukraine",
+                "rank": 8
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 22
+            }
+        ]
+    },
+    "Greece": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 9
+            },
+            {
+                "country": "Armenia",
+                "rank": 8
+            },
+            {
+                "country": "Austria",
+                "rank": 2
+            },
+            {
+                "country": "Denmark",
+                "rank": 15
+            },
+            {
+                "country": "Estonia",
+                "rank": 12
+            },
+            {
+                "country": "Finland",
+                "rank": 18
+            },
+            {
+                "country": "France",
+                "rank": 1
+            },
+            {
+                "country": "Germany",
+                "rank": 6
+            },
+            {
+                "country": "Iceland",
+                "rank": 17
+            },
+            {
+                "country": "Israel",
+                "rank": 10
+            },
+            {
+                "country": "Italy",
+                "rank": 7
+            },
+            {
+                "country": "Latvia",
+                "rank": 13
+            },
+            {
+                "country": "Lithuania",
+                "rank": 25
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 14
+            },
+            {
+                "country": "Malta",
+                "rank": 11
+            },
+            {
+                "country": "Netherlands",
+                "rank": 3
+            },
+            {
+                "country": "Norway",
+                "rank": 22
+            },
+            {
+                "country": "Poland",
+                "rank": 24
+            },
+            {
+                "country": "Portugal",
+                "rank": 19
+            },
+            {
+                "country": "San Marino",
+                "rank": 21
+            },
+            {
+                "country": "Spain",
+                "rank": 16
+            },
+            {
+                "country": "Sweden",
+                "rank": 4
+            },
+            {
+                "country": "Switzerland",
+                "rank": 5
+            },
+            {
+                "country": "Ukraine",
+                "rank": 23
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 20
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 1
+            },
+            {
+                "country": "Armenia",
+                "rank": 9
+            },
+            {
+                "country": "Austria",
+                "rank": 2
+            },
+            {
+                "country": "Denmark",
+                "rank": 25
+            },
+            {
+                "country": "Estonia",
+                "rank": 3
+            },
+            {
+                "country": "Finland",
+                "rank": 15
+            },
+            {
+                "country": "France",
+                "rank": 6
+            },
+            {
+                "country": "Germany",
+                "rank": 8
+            },
+            {
+                "country": "Iceland",
+                "rank": 13
+            },
+            {
+                "country": "Israel",
+                "rank": 4
+            },
+            {
+                "country": "Italy",
+                "rank": 11
+            },
+            {
+                "country": "Latvia",
+                "rank": 21
+            },
+            {
+                "country": "Lithuania",
+                "rank": 12
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 16
+            },
+            {
+                "country": "Malta",
+                "rank": 17
+            },
+            {
+                "country": "Netherlands",
+                "rank": 5
+            },
+            {
+                "country": "Norway",
+                "rank": 7
+            },
+            {
+                "country": "Poland",
+                "rank": 18
+            },
+            {
+                "country": "Portugal",
+                "rank": 24
+            },
+            {
+                "country": "San Marino",
+                "rank": 22
+            },
+            {
+                "country": "Spain",
+                "rank": 14
+            },
+            {
+                "country": "Sweden",
+                "rank": 10
+            },
+            {
+                "country": "Switzerland",
+                "rank": 20
+            },
+            {
+                "country": "Ukraine",
+                "rank": 19
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 23
+            }
+        ]
+    },
+    "Iceland": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 24
+            },
+            {
+                "country": "Armenia",
+                "rank": 17
+            },
+            {
+                "country": "Austria",
+                "rank": 3
+            },
+            {
+                "country": "Denmark",
+                "rank": 11
+            },
+            {
+                "country": "Estonia",
+                "rank": 8
+            },
+            {
+                "country": "Finland",
+                "rank": 10
+            },
+            {
+                "country": "France",
+                "rank": 7
+            },
+            {
+                "country": "Germany",
+                "rank": 18
+            },
+            {
+                "country": "Greece",
+                "rank": 21
+            },
+            {
+                "country": "Israel",
+                "rank": 16
+            },
+            {
+                "country": "Italy",
+                "rank": 9
+            },
+            {
+                "country": "Latvia",
+                "rank": 20
+            },
+            {
+                "country": "Lithuania",
+                "rank": 23
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 19
+            },
+            {
+                "country": "Malta",
+                "rank": 12
+            },
+            {
+                "country": "Netherlands",
+                "rank": 2
+            },
+            {
+                "country": "Norway",
+                "rank": 5
+            },
+            {
+                "country": "Poland",
+                "rank": 13
+            },
+            {
+                "country": "Portugal",
+                "rank": 22
+            },
+            {
+                "country": "San Marino",
+                "rank": 15
+            },
+            {
+                "country": "Spain",
+                "rank": 14
+            },
+            {
+                "country": "Sweden",
+                "rank": 1
+            },
+            {
+                "country": "Switzerland",
+                "rank": 4
+            },
+            {
+                "country": "Ukraine",
+                "rank": 25
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 6
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 19
+            },
+            {
+                "country": "Armenia",
+                "rank": 25
+            },
+            {
+                "country": "Austria",
+                "rank": 8
+            },
+            {
+                "country": "Denmark",
+                "rank": 9
+            },
+            {
+                "country": "Estonia",
+                "rank": 4
+            },
+            {
+                "country": "Finland",
+                "rank": 6
+            },
+            {
+                "country": "France",
+                "rank": 13
+            },
+            {
+                "country": "Germany",
+                "rank": 10
+            },
+            {
+                "country": "Greece",
+                "rank": 21
+            },
+            {
+                "country": "Israel",
+                "rank": 7
+            },
+            {
+                "country": "Italy",
+                "rank": 11
+            },
+            {
+                "country": "Latvia",
+                "rank": 14
+            },
+            {
+                "country": "Lithuania",
+                "rank": 12
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 22
+            },
+            {
+                "country": "Malta",
+                "rank": 23
+            },
+            {
+                "country": "Netherlands",
+                "rank": 5
+            },
+            {
+                "country": "Norway",
+                "rank": 3
+            },
+            {
+                "country": "Poland",
+                "rank": 1
+            },
+            {
+                "country": "Portugal",
+                "rank": 24
+            },
+            {
+                "country": "San Marino",
+                "rank": 20
+            },
+            {
+                "country": "Spain",
+                "rank": 15
+            },
+            {
+                "country": "Sweden",
+                "rank": 2
+            },
+            {
+                "country": "Switzerland",
+                "rank": 17
+            },
+            {
+                "country": "Ukraine",
+                "rank": 16
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 18
+            }
+        ]
+    },
+    "Ireland": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 18
+            },
+            {
+                "country": "Armenia",
+                "rank": 10
+            },
+            {
+                "country": "Austria",
+                "rank": 1
+            },
+            {
+                "country": "Denmark",
+                "rank": 20
+            },
+            {
+                "country": "Estonia",
+                "rank": 11
+            },
+            {
+                "country": "Finland",
+                "rank": 7
+            },
+            {
+                "country": "France",
+                "rank": 3
+            },
+            {
+                "country": "Germany",
+                "rank": 21
+            },
+            {
+                "country": "Greece",
+                "rank": 8
+            },
+            {
+                "country": "Iceland",
+                "rank": 15
+            },
+            {
+                "country": "Israel",
+                "rank": 4
+            },
+            {
+                "country": "Italy",
+                "rank": 16
+            },
+            {
+                "country": "Latvia",
+                "rank": 22
+            },
+            {
+                "country": "Lithuania",
+                "rank": 17
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 14
+            },
+            {
+                "country": "Malta",
+                "rank": 5
+            },
+            {
+                "country": "Netherlands",
+                "rank": 2
+            },
+            {
+                "country": "Norway",
+                "rank": 19
+            },
+            {
+                "country": "Poland",
+                "rank": 23
+            },
+            {
+                "country": "Portugal",
+                "rank": 26
+            },
+            {
+                "country": "San Marino",
+                "rank": 24
+            },
+            {
+                "country": "Spain",
+                "rank": 13
+            },
+            {
+                "country": "Sweden",
+                "rank": 6
+            },
+            {
+                "country": "Switzerland",
+                "rank": 12
+            },
+            {
+                "country": "Ukraine",
+                "rank": 25
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 9
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 12
+            },
+            {
+                "country": "Armenia",
+                "rank": 25
+            },
+            {
+                "country": "Austria",
+                "rank": 7
+            },
+            {
+                "country": "Denmark",
+                "rank": 22
+            },
+            {
+                "country": "Estonia",
+                "rank": 5
+            },
+            {
+                "country": "Finland",
+                "rank": 6
+            },
+            {
+                "country": "France",
+                "rank": 15
+            },
+            {
+                "country": "Germany",
+                "rank": 11
+            },
+            {
+                "country": "Greece",
+                "rank": 19
+            },
+            {
+                "country": "Iceland",
+                "rank": 14
+            },
+            {
+                "country": "Israel",
+                "rank": 2
+            },
+            {
+                "country": "Italy",
+                "rank": 13
+            },
+            {
+                "country": "Latvia",
+                "rank": 8
+            },
+            {
+                "country": "Lithuania",
+                "rank": 3
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 24
+            },
+            {
+                "country": "Malta",
+                "rank": 17
+            },
+            {
+                "country": "Netherlands",
+                "rank": 16
+            },
+            {
+                "country": "Norway",
+                "rank": 23
+            },
+            {
+                "country": "Poland",
+                "rank": 1
+            },
+            {
+                "country": "Portugal",
+                "rank": 21
+            },
+            {
+                "country": "San Marino",
+                "rank": 26
+            },
+            {
+                "country": "Spain",
+                "rank": 10
+            },
+            {
+                "country": "Sweden",
+                "rank": 9
+            },
+            {
+                "country": "Switzerland",
+                "rank": 20
+            },
+            {
+                "country": "Ukraine",
+                "rank": 4
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 18
+            }
+        ]
+    },
+    "Israel": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 17
+            },
+            {
+                "country": "Armenia",
+                "rank": 6
+            },
+            {
+                "country": "Austria",
+                "rank": 5
+            },
+            {
+                "country": "Denmark",
+                "rank": 18
+            },
+            {
+                "country": "Estonia",
+                "rank": 14
+            },
+            {
+                "country": "Finland",
+                "rank": 16
+            },
+            {
+                "country": "France",
+                "rank": 20
+            },
+            {
+                "country": "Germany",
+                "rank": 2
+            },
+            {
+                "country": "Greece",
+                "rank": 1
+            },
+            {
+                "country": "Iceland",
+                "rank": 24
+            },
+            {
+                "country": "Italy",
+                "rank": 8
+            },
+            {
+                "country": "Latvia",
+                "rank": 4
+            },
+            {
+                "country": "Lithuania",
+                "rank": 12
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 9
+            },
+            {
+                "country": "Malta",
+                "rank": 3
+            },
+            {
+                "country": "Netherlands",
+                "rank": 15
+            },
+            {
+                "country": "Norway",
+                "rank": 23
+            },
+            {
+                "country": "Poland",
+                "rank": 10
+            },
+            {
+                "country": "Portugal",
+                "rank": 21
+            },
+            {
+                "country": "San Marino",
+                "rank": 19
+            },
+            {
+                "country": "Spain",
+                "rank": 25
+            },
+            {
+                "country": "Sweden",
+                "rank": 13
+            },
+            {
+                "country": "Switzerland",
+                "rank": 11
+            },
+            {
+                "country": "Ukraine",
+                "rank": 7
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 22
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 13
+            },
+            {
+                "country": "Armenia",
+                "rank": 5
+            },
+            {
+                "country": "Austria",
+                "rank": 3
+            },
+            {
+                "country": "Denmark",
+                "rank": 18
+            },
+            {
+                "country": "Estonia",
+                "rank": 2
+            },
+            {
+                "country": "Finland",
+                "rank": 10
+            },
+            {
+                "country": "France",
+                "rank": 7
+            },
+            {
+                "country": "Germany",
+                "rank": 6
+            },
+            {
+                "country": "Greece",
+                "rank": 4
+            },
+            {
+                "country": "Iceland",
+                "rank": 25
+            },
+            {
+                "country": "Italy",
+                "rank": 15
+            },
+            {
+                "country": "Latvia",
+                "rank": 12
+            },
+            {
+                "country": "Lithuania",
+                "rank": 22
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 8
+            },
+            {
+                "country": "Malta",
+                "rank": 14
+            },
+            {
+                "country": "Netherlands",
+                "rank": 11
+            },
+            {
+                "country": "Norway",
+                "rank": 20
+            },
+            {
+                "country": "Poland",
+                "rank": 17
+            },
+            {
+                "country": "Portugal",
+                "rank": 24
+            },
+            {
+                "country": "San Marino",
+                "rank": 19
+            },
+            {
+                "country": "Spain",
+                "rank": 23
+            },
+            {
+                "country": "Sweden",
+                "rank": 9
+            },
+            {
+                "country": "Switzerland",
+                "rank": 16
+            },
+            {
+                "country": "Ukraine",
+                "rank": 1
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 21
+            }
+        ]
+    },
+    "Italy": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 8
+            },
+            {
+                "country": "Armenia",
+                "rank": 16
+            },
+            {
+                "country": "Austria",
+                "rank": 25
+            },
+            {
+                "country": "Denmark",
+                "rank": 4
+            },
+            {
+                "country": "Estonia",
+                "rank": 2
+            },
+            {
+                "country": "Finland",
+                "rank": 10
+            },
+            {
+                "country": "France",
+                "rank": 14
+            },
+            {
+                "country": "Germany",
+                "rank": 3
+            },
+            {
+                "country": "Greece",
+                "rank": 18
+            },
+            {
+                "country": "Iceland",
+                "rank": 19
+            },
+            {
+                "country": "Israel",
+                "rank": 17
+            },
+            {
+                "country": "Latvia",
+                "rank": 21
+            },
+            {
+                "country": "Lithuania",
+                "rank": 11
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 20
+            },
+            {
+                "country": "Malta",
+                "rank": 6
+            },
+            {
+                "country": "Netherlands",
+                "rank": 15
+            },
+            {
+                "country": "Norway",
+                "rank": 24
+            },
+            {
+                "country": "Poland",
+                "rank": 22
+            },
+            {
+                "country": "Portugal",
+                "rank": 12
+            },
+            {
+                "country": "San Marino",
+                "rank": 5
+            },
+            {
+                "country": "Spain",
+                "rank": 23
+            },
+            {
+                "country": "Sweden",
+                "rank": 13
+            },
+            {
+                "country": "Switzerland",
+                "rank": 7
+            },
+            {
+                "country": "Ukraine",
+                "rank": 9
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 1
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 2
+            },
+            {
+                "country": "Armenia",
+                "rank": 22
+            },
+            {
+                "country": "Austria",
+                "rank": 7
+            },
+            {
+                "country": "Denmark",
+                "rank": 25
+            },
+            {
+                "country": "Estonia",
+                "rank": 4
+            },
+            {
+                "country": "Finland",
+                "rank": 18
+            },
+            {
+                "country": "France",
+                "rank": 15
+            },
+            {
+                "country": "Germany",
+                "rank": 12
+            },
+            {
+                "country": "Greece",
+                "rank": 9
+            },
+            {
+                "country": "Iceland",
+                "rank": 14
+            },
+            {
+                "country": "Israel",
+                "rank": 3
+            },
+            {
+                "country": "Latvia",
+                "rank": 17
+            },
+            {
+                "country": "Lithuania",
+                "rank": 20
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 19
+            },
+            {
+                "country": "Malta",
+                "rank": 21
+            },
+            {
+                "country": "Netherlands",
+                "rank": 11
+            },
+            {
+                "country": "Norway",
+                "rank": 10
+            },
+            {
+                "country": "Poland",
+                "rank": 8
+            },
+            {
+                "country": "Portugal",
+                "rank": 16
+            },
+            {
+                "country": "San Marino",
+                "rank": 1
+            },
+            {
+                "country": "Spain",
+                "rank": 13
+            },
+            {
+                "country": "Sweden",
+                "rank": 6
+            },
+            {
+                "country": "Switzerland",
+                "rank": 23
+            },
+            {
+                "country": "Ukraine",
+                "rank": 5
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 24
+            }
+        ]
+    },
+    "Latvia": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 22
+            },
+            {
+                "country": "Armenia",
+                "rank": 7
+            },
+            {
+                "country": "Austria",
+                "rank": 1
+            },
+            {
+                "country": "Denmark",
+                "rank": 16
+            },
+            {
+                "country": "Estonia",
+                "rank": 10
+            },
+            {
+                "country": "Finland",
+                "rank": 2
+            },
+            {
+                "country": "France",
+                "rank": 5
+            },
+            {
+                "country": "Germany",
+                "rank": 9
+            },
+            {
+                "country": "Greece",
+                "rank": 19
+            },
+            {
+                "country": "Iceland",
+                "rank": 20
+            },
+            {
+                "country": "Israel",
+                "rank": 23
+            },
+            {
+                "country": "Italy",
+                "rank": 11
+            },
+            {
+                "country": "Lithuania",
+                "rank": 4
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 8
+            },
+            {
+                "country": "Malta",
+                "rank": 6
+            },
+            {
+                "country": "Netherlands",
+                "rank": 14
+            },
+            {
+                "country": "Norway",
+                "rank": 18
+            },
+            {
+                "country": "Poland",
+                "rank": 21
+            },
+            {
+                "country": "Portugal",
+                "rank": 17
+            },
+            {
+                "country": "San Marino",
+                "rank": 24
+            },
+            {
+                "country": "Spain",
+                "rank": 13
+            },
+            {
+                "country": "Sweden",
+                "rank": 15
+            },
+            {
+                "country": "Switzerland",
+                "rank": 3
+            },
+            {
+                "country": "Ukraine",
+                "rank": 12
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 25
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 12
+            },
+            {
+                "country": "Armenia",
+                "rank": 18
+            },
+            {
+                "country": "Austria",
+                "rank": 7
+            },
+            {
+                "country": "Denmark",
+                "rank": 23
+            },
+            {
+                "country": "Estonia",
+                "rank": 1
+            },
+            {
+                "country": "Finland",
+                "rank": 8
+            },
+            {
+                "country": "France",
+                "rank": 15
+            },
+            {
+                "country": "Germany",
+                "rank": 6
+            },
+            {
+                "country": "Greece",
+                "rank": 20
+            },
+            {
+                "country": "Iceland",
+                "rank": 13
+            },
+            {
+                "country": "Israel",
+                "rank": 4
+            },
+            {
+                "country": "Italy",
+                "rank": 9
+            },
+            {
+                "country": "Lithuania",
+                "rank": 2
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 17
+            },
+            {
+                "country": "Malta",
+                "rank": 21
+            },
+            {
+                "country": "Netherlands",
+                "rank": 11
+            },
+            {
+                "country": "Norway",
+                "rank": 10
+            },
+            {
+                "country": "Poland",
+                "rank": 19
+            },
+            {
+                "country": "Portugal",
+                "rank": 16
+            },
+            {
+                "country": "San Marino",
+                "rank": 25
+            },
+            {
+                "country": "Spain",
+                "rank": 22
+            },
+            {
+                "country": "Sweden",
+                "rank": 3
+            },
+            {
+                "country": "Switzerland",
+                "rank": 14
+            },
+            {
+                "country": "Ukraine",
+                "rank": 5
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 24
+            }
+        ]
+    },
+    "Lithuania": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 16
+            },
+            {
+                "country": "Armenia",
+                "rank": 12
+            },
+            {
+                "country": "Austria",
+                "rank": 7
+            },
+            {
+                "country": "Denmark",
+                "rank": 24
+            },
+            {
+                "country": "Estonia",
+                "rank": 4
+            },
+            {
+                "country": "Finland",
+                "rank": 13
+            },
+            {
+                "country": "France",
+                "rank": 11
+            },
+            {
+                "country": "Germany",
+                "rank": 6
+            },
+            {
+                "country": "Greece",
+                "rank": 15
+            },
+            {
+                "country": "Iceland",
+                "rank": 20
+            },
+            {
+                "country": "Israel",
+                "rank": 17
+            },
+            {
+                "country": "Italy",
+                "rank": 2
+            },
+            {
+                "country": "Latvia",
+                "rank": 1
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 21
+            },
+            {
+                "country": "Malta",
+                "rank": 25
+            },
+            {
+                "country": "Netherlands",
+                "rank": 3
+            },
+            {
+                "country": "Norway",
+                "rank": 23
+            },
+            {
+                "country": "Poland",
+                "rank": 22
+            },
+            {
+                "country": "Portugal",
+                "rank": 5
+            },
+            {
+                "country": "San Marino",
+                "rank": 18
+            },
+            {
+                "country": "Spain",
+                "rank": 19
+            },
+            {
+                "country": "Sweden",
+                "rank": 10
+            },
+            {
+                "country": "Switzerland",
+                "rank": 8
+            },
+            {
+                "country": "Ukraine",
+                "rank": 9
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 14
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 13
+            },
+            {
+                "country": "Armenia",
+                "rank": 18
+            },
+            {
+                "country": "Austria",
+                "rank": 6
+            },
+            {
+                "country": "Denmark",
+                "rank": 22
+            },
+            {
+                "country": "Estonia",
+                "rank": 2
+            },
+            {
+                "country": "Finland",
+                "rank": 11
+            },
+            {
+                "country": "France",
+                "rank": 16
+            },
+            {
+                "country": "Germany",
+                "rank": 3
+            },
+            {
+                "country": "Greece",
+                "rank": 21
+            },
+            {
+                "country": "Iceland",
+                "rank": 14
+            },
+            {
+                "country": "Israel",
+                "rank": 8
+            },
+            {
+                "country": "Italy",
+                "rank": 5
+            },
+            {
+                "country": "Latvia",
+                "rank": 1
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 20
+            },
+            {
+                "country": "Malta",
+                "rank": 23
+            },
+            {
+                "country": "Netherlands",
+                "rank": 10
+            },
+            {
+                "country": "Norway",
+                "rank": 9
+            },
+            {
+                "country": "Poland",
+                "rank": 15
+            },
+            {
+                "country": "Portugal",
+                "rank": 12
+            },
+            {
+                "country": "San Marino",
+                "rank": 19
+            },
+            {
+                "country": "Spain",
+                "rank": 24
+            },
+            {
+                "country": "Sweden",
+                "rank": 7
+            },
+            {
+                "country": "Switzerland",
+                "rank": 17
+            },
+            {
+                "country": "Ukraine",
+                "rank": 4
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 25
+            }
+        ]
+    },
+    "Luxembourg": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 23
+            },
+            {
+                "country": "Armenia",
+                "rank": 21
+            },
+            {
+                "country": "Austria",
+                "rank": 2
+            },
+            {
+                "country": "Denmark",
+                "rank": 14
+            },
+            {
+                "country": "Estonia",
+                "rank": 8
+            },
+            {
+                "country": "Finland",
+                "rank": 25
+            },
+            {
+                "country": "France",
+                "rank": 1
+            },
+            {
+                "country": "Germany",
+                "rank": 7
+            },
+            {
+                "country": "Greece",
+                "rank": 22
+            },
+            {
+                "country": "Iceland",
+                "rank": 17
+            },
+            {
+                "country": "Israel",
+                "rank": 10
+            },
+            {
+                "country": "Italy",
+                "rank": 13
+            },
+            {
+                "country": "Latvia",
+                "rank": 9
+            },
+            {
+                "country": "Lithuania",
+                "rank": 15
+            },
+            {
+                "country": "Malta",
+                "rank": 12
+            },
+            {
+                "country": "Netherlands",
+                "rank": 4
+            },
+            {
+                "country": "Norway",
+                "rank": 24
+            },
+            {
+                "country": "Poland",
+                "rank": 19
+            },
+            {
+                "country": "Portugal",
+                "rank": 20
+            },
+            {
+                "country": "San Marino",
+                "rank": 18
+            },
+            {
+                "country": "Spain",
+                "rank": 11
+            },
+            {
+                "country": "Sweden",
+                "rank": 6
+            },
+            {
+                "country": "Switzerland",
+                "rank": 3
+            },
+            {
+                "country": "Ukraine",
+                "rank": 16
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 5
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 4
+            },
+            {
+                "country": "Armenia",
+                "rank": 21
+            },
+            {
+                "country": "Austria",
+                "rank": 12
+            },
+            {
+                "country": "Denmark",
+                "rank": 20
+            },
+            {
+                "country": "Estonia",
+                "rank": 6
+            },
+            {
+                "country": "Finland",
+                "rank": 15
+            },
+            {
+                "country": "France",
+                "rank": 5
+            },
+            {
+                "country": "Germany",
+                "rank": 11
+            },
+            {
+                "country": "Greece",
+                "rank": 2
+            },
+            {
+                "country": "Iceland",
+                "rank": 18
+            },
+            {
+                "country": "Israel",
+                "rank": 1
+            },
+            {
+                "country": "Italy",
+                "rank": 13
+            },
+            {
+                "country": "Latvia",
+                "rank": 10
+            },
+            {
+                "country": "Lithuania",
+                "rank": 7
+            },
+            {
+                "country": "Malta",
+                "rank": 19
+            },
+            {
+                "country": "Netherlands",
+                "rank": 16
+            },
+            {
+                "country": "Norway",
+                "rank": 25
+            },
+            {
+                "country": "Poland",
+                "rank": 8
+            },
+            {
+                "country": "Portugal",
+                "rank": 3
+            },
+            {
+                "country": "San Marino",
+                "rank": 24
+            },
+            {
+                "country": "Spain",
+                "rank": 17
+            },
+            {
+                "country": "Sweden",
+                "rank": 9
+            },
+            {
+                "country": "Switzerland",
+                "rank": 23
+            },
+            {
+                "country": "Ukraine",
+                "rank": 14
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 22
+            }
+        ]
+    },
+    "Malta": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 17
+            },
+            {
+                "country": "Armenia",
+                "rank": 1
+            },
+            {
+                "country": "Austria",
+                "rank": 4
+            },
+            {
+                "country": "Denmark",
+                "rank": 16
+            },
+            {
+                "country": "Estonia",
+                "rank": 8
+            },
+            {
+                "country": "Finland",
+                "rank": 5
+            },
+            {
+                "country": "France",
+                "rank": 3
+            },
+            {
+                "country": "Germany",
+                "rank": 21
+            },
+            {
+                "country": "Greece",
+                "rank": 2
+            },
+            {
+                "country": "Iceland",
+                "rank": 18
+            },
+            {
+                "country": "Israel",
+                "rank": 12
+            },
+            {
+                "country": "Italy",
+                "rank": 7
+            },
+            {
+                "country": "Latvia",
+                "rank": 22
+            },
+            {
+                "country": "Lithuania",
+                "rank": 25
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 13
+            },
+            {
+                "country": "Netherlands",
+                "rank": 14
+            },
+            {
+                "country": "Norway",
+                "rank": 24
+            },
+            {
+                "country": "Poland",
+                "rank": 15
+            },
+            {
+                "country": "Portugal",
+                "rank": 23
+            },
+            {
+                "country": "San Marino",
+                "rank": 11
+            },
+            {
+                "country": "Spain",
+                "rank": 6
+            },
+            {
+                "country": "Sweden",
+                "rank": 10
+            },
+            {
+                "country": "Switzerland",
+                "rank": 9
+            },
+            {
+                "country": "Ukraine",
+                "rank": 19
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 20
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 7
+            },
+            {
+                "country": "Armenia",
+                "rank": 19
+            },
+            {
+                "country": "Austria",
+                "rank": 2
+            },
+            {
+                "country": "Denmark",
+                "rank": 20
+            },
+            {
+                "country": "Estonia",
+                "rank": 1
+            },
+            {
+                "country": "Finland",
+                "rank": 4
+            },
+            {
+                "country": "France",
+                "rank": 22
+            },
+            {
+                "country": "Germany",
+                "rank": 12
+            },
+            {
+                "country": "Greece",
+                "rank": 11
+            },
+            {
+                "country": "Iceland",
+                "rank": 21
+            },
+            {
+                "country": "Israel",
+                "rank": 6
+            },
+            {
+                "country": "Italy",
+                "rank": 3
+            },
+            {
+                "country": "Latvia",
+                "rank": 17
+            },
+            {
+                "country": "Lithuania",
+                "rank": 16
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 23
+            },
+            {
+                "country": "Netherlands",
+                "rank": 13
+            },
+            {
+                "country": "Norway",
+                "rank": 5
+            },
+            {
+                "country": "Poland",
+                "rank": 9
+            },
+            {
+                "country": "Portugal",
+                "rank": 24
+            },
+            {
+                "country": "San Marino",
+                "rank": 8
+            },
+            {
+                "country": "Spain",
+                "rank": 14
+            },
+            {
+                "country": "Sweden",
+                "rank": 10
+            },
+            {
+                "country": "Switzerland",
+                "rank": 25
+            },
+            {
+                "country": "Ukraine",
+                "rank": 15
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 18
+            }
+        ]
+    },
+    "Montenegro": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 2
+            },
+            {
+                "country": "Armenia",
+                "rank": 10
+            },
+            {
+                "country": "Austria",
+                "rank": 3
+            },
+            {
+                "country": "Denmark",
+                "rank": 14
+            },
+            {
+                "country": "Estonia",
+                "rank": 12
+            },
+            {
+                "country": "Finland",
+                "rank": 19
+            },
+            {
+                "country": "France",
+                "rank": 5
+            },
+            {
+                "country": "Germany",
+                "rank": 17
+            },
+            {
+                "country": "Greece",
+                "rank": 1
+            },
+            {
+                "country": "Iceland",
+                "rank": 26
+            },
+            {
+                "country": "Israel",
+                "rank": 13
+            },
+            {
+                "country": "Italy",
+                "rank": 24
+            },
+            {
+                "country": "Latvia",
+                "rank": 11
+            },
+            {
+                "country": "Lithuania",
+                "rank": 8
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 7
+            },
+            {
+                "country": "Malta",
+                "rank": 6
+            },
+            {
+                "country": "Netherlands",
+                "rank": 9
+            },
+            {
+                "country": "Norway",
+                "rank": 21
+            },
+            {
+                "country": "Poland",
+                "rank": 18
+            },
+            {
+                "country": "Portugal",
+                "rank": 25
+            },
+            {
+                "country": "San Marino",
+                "rank": 15
+            },
+            {
+                "country": "Spain",
+                "rank": 23
+            },
+            {
+                "country": "Sweden",
+                "rank": 22
+            },
+            {
+                "country": "Switzerland",
+                "rank": 4
+            },
+            {
+                "country": "Ukraine",
+                "rank": 20
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 16
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 1
+            },
+            {
+                "country": "Armenia",
+                "rank": 15
+            },
+            {
+                "country": "Austria",
+                "rank": 8
+            },
+            {
+                "country": "Denmark",
+                "rank": 24
+            },
+            {
+                "country": "Estonia",
+                "rank": 2
+            },
+            {
+                "country": "Finland",
+                "rank": 11
+            },
+            {
+                "country": "France",
+                "rank": 9
+            },
+            {
+                "country": "Germany",
+                "rank": 12
+            },
+            {
+                "country": "Greece",
+                "rank": 7
+            },
+            {
+                "country": "Iceland",
+                "rank": 22
+            },
+            {
+                "country": "Israel",
+                "rank": 4
+            },
+            {
+                "country": "Italy",
+                "rank": 10
+            },
+            {
+                "country": "Latvia",
+                "rank": 13
+            },
+            {
+                "country": "Lithuania",
+                "rank": 16
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 3
+            },
+            {
+                "country": "Malta",
+                "rank": 19
+            },
+            {
+                "country": "Netherlands",
+                "rank": 20
+            },
+            {
+                "country": "Norway",
+                "rank": 14
+            },
+            {
+                "country": "Poland",
+                "rank": 17
+            },
+            {
+                "country": "Portugal",
+                "rank": 21
+            },
+            {
+                "country": "San Marino",
+                "rank": 18
+            },
+            {
+                "country": "Spain",
+                "rank": 23
+            },
+            {
+                "country": "Sweden",
+                "rank": 6
+            },
+            {
+                "country": "Switzerland",
+                "rank": 25
+            },
+            {
+                "country": "Ukraine",
+                "rank": 5
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 26
+            }
+        ]
+    },
+    "Netherlands": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 10
+            },
+            {
+                "country": "Armenia",
+                "rank": 23
+            },
+            {
+                "country": "Austria",
+                "rank": 1
+            },
+            {
+                "country": "Denmark",
+                "rank": 21
+            },
+            {
+                "country": "Estonia",
+                "rank": 17
+            },
+            {
+                "country": "Finland",
+                "rank": 25
+            },
+            {
+                "country": "France",
+                "rank": 9
+            },
+            {
+                "country": "Germany",
+                "rank": 12
+            },
+            {
+                "country": "Greece",
+                "rank": 18
+            },
+            {
+                "country": "Iceland",
+                "rank": 15
+            },
+            {
+                "country": "Israel",
+                "rank": 6
+            },
+            {
+                "country": "Italy",
+                "rank": 11
+            },
+            {
+                "country": "Latvia",
+                "rank": 8
+            },
+            {
+                "country": "Lithuania",
+                "rank": 7
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 5
+            },
+            {
+                "country": "Malta",
+                "rank": 22
+            },
+            {
+                "country": "Norway",
+                "rank": 14
+            },
+            {
+                "country": "Poland",
+                "rank": 13
+            },
+            {
+                "country": "Portugal",
+                "rank": 4
+            },
+            {
+                "country": "San Marino",
+                "rank": 24
+            },
+            {
+                "country": "Spain",
+                "rank": 19
+            },
+            {
+                "country": "Sweden",
+                "rank": 3
+            },
+            {
+                "country": "Switzerland",
+                "rank": 2
+            },
+            {
+                "country": "Ukraine",
+                "rank": 20
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 16
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 11
+            },
+            {
+                "country": "Armenia",
+                "rank": 19
+            },
+            {
+                "country": "Austria",
+                "rank": 8
+            },
+            {
+                "country": "Denmark",
+                "rank": 22
+            },
+            {
+                "country": "Estonia",
+                "rank": 3
+            },
+            {
+                "country": "Finland",
+                "rank": 5
+            },
+            {
+                "country": "France",
+                "rank": 12
+            },
+            {
+                "country": "Germany",
+                "rank": 10
+            },
+            {
+                "country": "Greece",
+                "rank": 6
+            },
+            {
+                "country": "Iceland",
+                "rank": 15
+            },
+            {
+                "country": "Israel",
+                "rank": 1
+            },
+            {
+                "country": "Italy",
+                "rank": 9
+            },
+            {
+                "country": "Latvia",
+                "rank": 14
+            },
+            {
+                "country": "Lithuania",
+                "rank": 13
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 21
+            },
+            {
+                "country": "Malta",
+                "rank": 23
+            },
+            {
+                "country": "Norway",
+                "rank": 20
+            },
+            {
+                "country": "Poland",
+                "rank": 2
+            },
+            {
+                "country": "Portugal",
+                "rank": 17
+            },
+            {
+                "country": "San Marino",
+                "rank": 25
+            },
+            {
+                "country": "Spain",
+                "rank": 18
+            },
+            {
+                "country": "Sweden",
+                "rank": 4
+            },
+            {
+                "country": "Switzerland",
+                "rank": 16
+            },
+            {
+                "country": "Ukraine",
+                "rank": 7
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 24
+            }
+        ]
+    },
+    "Norway": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 15
+            },
+            {
+                "country": "Armenia",
+                "rank": 20
+            },
+            {
+                "country": "Austria",
+                "rank": 1
+            },
+            {
+                "country": "Denmark",
+                "rank": 11
+            },
+            {
+                "country": "Estonia",
+                "rank": 7
+            },
+            {
+                "country": "Finland",
+                "rank": 3
+            },
+            {
+                "country": "France",
+                "rank": 9
+            },
+            {
+                "country": "Germany",
+                "rank": 14
+            },
+            {
+                "country": "Greece",
+                "rank": 12
+            },
+            {
+                "country": "Iceland",
+                "rank": 22
+            },
+            {
+                "country": "Israel",
+                "rank": 18
+            },
+            {
+                "country": "Italy",
+                "rank": 17
+            },
+            {
+                "country": "Latvia",
+                "rank": 5
+            },
+            {
+                "country": "Lithuania",
+                "rank": 24
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 21
+            },
+            {
+                "country": "Malta",
+                "rank": 19
+            },
+            {
+                "country": "Netherlands",
+                "rank": 6
+            },
+            {
+                "country": "Poland",
+                "rank": 23
+            },
+            {
+                "country": "Portugal",
+                "rank": 16
+            },
+            {
+                "country": "San Marino",
+                "rank": 25
+            },
+            {
+                "country": "Spain",
+                "rank": 13
+            },
+            {
+                "country": "Sweden",
+                "rank": 2
+            },
+            {
+                "country": "Switzerland",
+                "rank": 8
+            },
+            {
+                "country": "Ukraine",
+                "rank": 10
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 4
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 11
+            },
+            {
+                "country": "Armenia",
+                "rank": 24
+            },
+            {
+                "country": "Austria",
+                "rank": 10
+            },
+            {
+                "country": "Denmark",
+                "rank": 13
+            },
+            {
+                "country": "Estonia",
+                "rank": 4
+            },
+            {
+                "country": "Finland",
+                "rank": 5
+            },
+            {
+                "country": "France",
+                "rank": 17
+            },
+            {
+                "country": "Germany",
+                "rank": 16
+            },
+            {
+                "country": "Greece",
+                "rank": 15
+            },
+            {
+                "country": "Iceland",
+                "rank": 8
+            },
+            {
+                "country": "Israel",
+                "rank": 2
+            },
+            {
+                "country": "Italy",
+                "rank": 12
+            },
+            {
+                "country": "Latvia",
+                "rank": 14
+            },
+            {
+                "country": "Lithuania",
+                "rank": 7
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 22
+            },
+            {
+                "country": "Malta",
+                "rank": 23
+            },
+            {
+                "country": "Netherlands",
+                "rank": 6
+            },
+            {
+                "country": "Poland",
+                "rank": 3
+            },
+            {
+                "country": "Portugal",
+                "rank": 20
+            },
+            {
+                "country": "San Marino",
+                "rank": 25
+            },
+            {
+                "country": "Spain",
+                "rank": 18
+            },
+            {
+                "country": "Sweden",
+                "rank": 1
+            },
+            {
+                "country": "Switzerland",
+                "rank": 19
+            },
+            {
+                "country": "Ukraine",
+                "rank": 9
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 21
+            }
+        ]
+    },
+    "Poland": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 6
+            },
+            {
+                "country": "Armenia",
+                "rank": 25
+            },
+            {
+                "country": "Austria",
+                "rank": 4
+            },
+            {
+                "country": "Denmark",
+                "rank": 12
+            },
+            {
+                "country": "Estonia",
+                "rank": 15
+            },
+            {
+                "country": "Finland",
+                "rank": 24
+            },
+            {
+                "country": "France",
+                "rank": 8
+            },
+            {
+                "country": "Germany",
+                "rank": 13
+            },
+            {
+                "country": "Greece",
+                "rank": 7
+            },
+            {
+                "country": "Iceland",
+                "rank": 23
+            },
+            {
+                "country": "Israel",
+                "rank": 18
+            },
+            {
+                "country": "Italy",
+                "rank": 3
+            },
+            {
+                "country": "Latvia",
+                "rank": 11
+            },
+            {
+                "country": "Lithuania",
+                "rank": 5
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 19
+            },
+            {
+                "country": "Malta",
+                "rank": 20
+            },
+            {
+                "country": "Netherlands",
+                "rank": 2
+            },
+            {
+                "country": "Norway",
+                "rank": 9
+            },
+            {
+                "country": "Portugal",
+                "rank": 22
+            },
+            {
+                "country": "San Marino",
+                "rank": 14
+            },
+            {
+                "country": "Spain",
+                "rank": 21
+            },
+            {
+                "country": "Sweden",
+                "rank": 16
+            },
+            {
+                "country": "Switzerland",
+                "rank": 1
+            },
+            {
+                "country": "Ukraine",
+                "rank": 17
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 10
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 7
+            },
+            {
+                "country": "Armenia",
+                "rank": 15
+            },
+            {
+                "country": "Austria",
+                "rank": 4
+            },
+            {
+                "country": "Denmark",
+                "rank": 21
+            },
+            {
+                "country": "Estonia",
+                "rank": 2
+            },
+            {
+                "country": "Finland",
+                "rank": 10
+            },
+            {
+                "country": "France",
+                "rank": 16
+            },
+            {
+                "country": "Germany",
+                "rank": 6
+            },
+            {
+                "country": "Greece",
+                "rank": 17
+            },
+            {
+                "country": "Iceland",
+                "rank": 13
+            },
+            {
+                "country": "Israel",
+                "rank": 12
+            },
+            {
+                "country": "Italy",
+                "rank": 11
+            },
+            {
+                "country": "Latvia",
+                "rank": 9
+            },
+            {
+                "country": "Lithuania",
+                "rank": 5
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 24
+            },
+            {
+                "country": "Malta",
+                "rank": 22
+            },
+            {
+                "country": "Netherlands",
+                "rank": 14
+            },
+            {
+                "country": "Norway",
+                "rank": 8
+            },
+            {
+                "country": "Portugal",
+                "rank": 19
+            },
+            {
+                "country": "San Marino",
+                "rank": 23
+            },
+            {
+                "country": "Spain",
+                "rank": 20
+            },
+            {
+                "country": "Sweden",
+                "rank": 3
+            },
+            {
+                "country": "Switzerland",
+                "rank": 18
+            },
+            {
+                "country": "Ukraine",
+                "rank": 1
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 25
+            }
+        ]
+    },
+    "Portugal": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 7
+            },
+            {
+                "country": "Armenia",
+                "rank": 14
+            },
+            {
+                "country": "Austria",
+                "rank": 5
+            },
+            {
+                "country": "Denmark",
+                "rank": 21
+            },
+            {
+                "country": "Estonia",
+                "rank": 8
+            },
+            {
+                "country": "Finland",
+                "rank": 20
+            },
+            {
+                "country": "France",
+                "rank": 12
+            },
+            {
+                "country": "Germany",
+                "rank": 17
+            },
+            {
+                "country": "Greece",
+                "rank": 10
+            },
+            {
+                "country": "Iceland",
+                "rank": 24
+            },
+            {
+                "country": "Israel",
+                "rank": 23
+            },
+            {
+                "country": "Italy",
+                "rank": 1
+            },
+            {
+                "country": "Latvia",
+                "rank": 4
+            },
+            {
+                "country": "Lithuania",
+                "rank": 13
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 15
+            },
+            {
+                "country": "Malta",
+                "rank": 22
+            },
+            {
+                "country": "Netherlands",
+                "rank": 6
+            },
+            {
+                "country": "Norway",
+                "rank": 18
+            },
+            {
+                "country": "Poland",
+                "rank": 16
+            },
+            {
+                "country": "San Marino",
+                "rank": 25
+            },
+            {
+                "country": "Spain",
+                "rank": 19
+            },
+            {
+                "country": "Sweden",
+                "rank": 11
+            },
+            {
+                "country": "Switzerland",
+                "rank": 2
+            },
+            {
+                "country": "Ukraine",
+                "rank": 3
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 9
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 9
+            },
+            {
+                "country": "Armenia",
+                "rank": 21
+            },
+            {
+                "country": "Austria",
+                "rank": 4
+            },
+            {
+                "country": "Denmark",
+                "rank": 23
+            },
+            {
+                "country": "Estonia",
+                "rank": 10
+            },
+            {
+                "country": "Finland",
+                "rank": 13
+            },
+            {
+                "country": "France",
+                "rank": 6
+            },
+            {
+                "country": "Germany",
+                "rank": 15
+            },
+            {
+                "country": "Greece",
+                "rank": 18
+            },
+            {
+                "country": "Iceland",
+                "rank": 19
+            },
+            {
+                "country": "Israel",
+                "rank": 1
+            },
+            {
+                "country": "Italy",
+                "rank": 3
+            },
+            {
+                "country": "Latvia",
+                "rank": 16
+            },
+            {
+                "country": "Lithuania",
+                "rank": 14
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 20
+            },
+            {
+                "country": "Malta",
+                "rank": 24
+            },
+            {
+                "country": "Netherlands",
+                "rank": 8
+            },
+            {
+                "country": "Norway",
+                "rank": 17
+            },
+            {
+                "country": "Poland",
+                "rank": 12
+            },
+            {
+                "country": "San Marino",
+                "rank": 25
+            },
+            {
+                "country": "Spain",
+                "rank": 5
+            },
+            {
+                "country": "Sweden",
+                "rank": 7
+            },
+            {
+                "country": "Switzerland",
+                "rank": 11
+            },
+            {
+                "country": "Ukraine",
+                "rank": 2
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 22
+            }
+        ]
+    },
+    "San Marino": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 14
+            },
+            {
+                "country": "Armenia",
+                "rank": 21
+            },
+            {
+                "country": "Austria",
+                "rank": 13
+            },
+            {
+                "country": "Denmark",
+                "rank": 15
+            },
+            {
+                "country": "Estonia",
+                "rank": 4
+            },
+            {
+                "country": "Finland",
+                "rank": 23
+            },
+            {
+                "country": "France",
+                "rank": 6
+            },
+            {
+                "country": "Germany",
+                "rank": 11
+            },
+            {
+                "country": "Greece",
+                "rank": 12
+            },
+            {
+                "country": "Iceland",
+                "rank": 16
+            },
+            {
+                "country": "Israel",
+                "rank": 19
+            },
+            {
+                "country": "Italy",
+                "rank": 1
+            },
+            {
+                "country": "Latvia",
+                "rank": 3
+            },
+            {
+                "country": "Lithuania",
+                "rank": 8
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 20
+            },
+            {
+                "country": "Malta",
+                "rank": 10
+            },
+            {
+                "country": "Netherlands",
+                "rank": 18
+            },
+            {
+                "country": "Norway",
+                "rank": 22
+            },
+            {
+                "country": "Poland",
+                "rank": 25
+            },
+            {
+                "country": "Portugal",
+                "rank": 5
+            },
+            {
+                "country": "Spain",
+                "rank": 17
+            },
+            {
+                "country": "Sweden",
+                "rank": 24
+            },
+            {
+                "country": "Switzerland",
+                "rank": 2
+            },
+            {
+                "country": "Ukraine",
+                "rank": 7
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 9
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 3
+            },
+            {
+                "country": "Armenia",
+                "rank": 18
+            },
+            {
+                "country": "Austria",
+                "rank": 6
+            },
+            {
+                "country": "Denmark",
+                "rank": 24
+            },
+            {
+                "country": "Estonia",
+                "rank": 4
+            },
+            {
+                "country": "Finland",
+                "rank": 12
+            },
+            {
+                "country": "France",
+                "rank": 13
+            },
+            {
+                "country": "Germany",
+                "rank": 16
+            },
+            {
+                "country": "Greece",
+                "rank": 1
+            },
+            {
+                "country": "Iceland",
+                "rank": 19
+            },
+            {
+                "country": "Israel",
+                "rank": 2
+            },
+            {
+                "country": "Italy",
+                "rank": 8
+            },
+            {
+                "country": "Latvia",
+                "rank": 17
+            },
+            {
+                "country": "Lithuania",
+                "rank": 14
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 23
+            },
+            {
+                "country": "Malta",
+                "rank": 21
+            },
+            {
+                "country": "Netherlands",
+                "rank": 9
+            },
+            {
+                "country": "Norway",
+                "rank": 11
+            },
+            {
+                "country": "Poland",
+                "rank": 5
+            },
+            {
+                "country": "Portugal",
+                "rank": 25
+            },
+            {
+                "country": "Spain",
+                "rank": 15
+            },
+            {
+                "country": "Sweden",
+                "rank": 10
+            },
+            {
+                "country": "Switzerland",
+                "rank": 20
+            },
+            {
+                "country": "Ukraine",
+                "rank": 7
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 22
+            }
+        ]
+    },
+    "Serbia": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 24
+            },
+            {
+                "country": "Armenia",
+                "rank": 9
+            },
+            {
+                "country": "Austria",
+                "rank": 3
+            },
+            {
+                "country": "Denmark",
+                "rank": 6
+            },
+            {
+                "country": "Estonia",
+                "rank": 8
+            },
+            {
+                "country": "Finland",
+                "rank": 21
+            },
+            {
+                "country": "France",
+                "rank": 1
+            },
+            {
+                "country": "Germany",
+                "rank": 2
+            },
+            {
+                "country": "Greece",
+                "rank": 5
+            },
+            {
+                "country": "Iceland",
+                "rank": 26
+            },
+            {
+                "country": "Israel",
+                "rank": 11
+            },
+            {
+                "country": "Italy",
+                "rank": 13
+            },
+            {
+                "country": "Latvia",
+                "rank": 10
+            },
+            {
+                "country": "Lithuania",
+                "rank": 25
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 14
+            },
+            {
+                "country": "Malta",
+                "rank": 18
+            },
+            {
+                "country": "Netherlands",
+                "rank": 16
+            },
+            {
+                "country": "Norway",
+                "rank": 22
+            },
+            {
+                "country": "Poland",
+                "rank": 23
+            },
+            {
+                "country": "Portugal",
+                "rank": 19
+            },
+            {
+                "country": "San Marino",
+                "rank": 20
+            },
+            {
+                "country": "Spain",
+                "rank": 12
+            },
+            {
+                "country": "Sweden",
+                "rank": 17
+            },
+            {
+                "country": "Switzerland",
+                "rank": 4
+            },
+            {
+                "country": "Ukraine",
+                "rank": 7
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 15
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 7
+            },
+            {
+                "country": "Armenia",
+                "rank": 19
+            },
+            {
+                "country": "Austria",
+                "rank": 2
+            },
+            {
+                "country": "Denmark",
+                "rank": 25
+            },
+            {
+                "country": "Estonia",
+                "rank": 1
+            },
+            {
+                "country": "Finland",
+                "rank": 5
+            },
+            {
+                "country": "France",
+                "rank": 13
+            },
+            {
+                "country": "Germany",
+                "rank": 6
+            },
+            {
+                "country": "Greece",
+                "rank": 3
+            },
+            {
+                "country": "Iceland",
+                "rank": 15
+            },
+            {
+                "country": "Israel",
+                "rank": 9
+            },
+            {
+                "country": "Italy",
+                "rank": 11
+            },
+            {
+                "country": "Latvia",
+                "rank": 17
+            },
+            {
+                "country": "Lithuania",
+                "rank": 14
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 20
+            },
+            {
+                "country": "Malta",
+                "rank": 10
+            },
+            {
+                "country": "Netherlands",
+                "rank": 12
+            },
+            {
+                "country": "Norway",
+                "rank": 8
+            },
+            {
+                "country": "Poland",
+                "rank": 16
+            },
+            {
+                "country": "Portugal",
+                "rank": 26
+            },
+            {
+                "country": "San Marino",
+                "rank": 23
+            },
+            {
+                "country": "Spain",
+                "rank": 18
+            },
+            {
+                "country": "Sweden",
+                "rank": 4
+            },
+            {
+                "country": "Switzerland",
+                "rank": 22
+            },
+            {
+                "country": "Ukraine",
+                "rank": 21
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 24
+            }
+        ]
+    },
+    "Slovenia": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 13
+            },
+            {
+                "country": "Armenia",
+                "rank": 19
+            },
+            {
+                "country": "Austria",
+                "rank": 2
+            },
+            {
+                "country": "Denmark",
+                "rank": 23
+            },
+            {
+                "country": "Estonia",
+                "rank": 4
+            },
+            {
+                "country": "Finland",
+                "rank": 15
+            },
+            {
+                "country": "France",
+                "rank": 8
+            },
+            {
+                "country": "Germany",
+                "rank": 17
+            },
+            {
+                "country": "Greece",
+                "rank": 14
+            },
+            {
+                "country": "Iceland",
+                "rank": 18
+            },
+            {
+                "country": "Israel",
+                "rank": 12
+            },
+            {
+                "country": "Italy",
+                "rank": 1
+            },
+            {
+                "country": "Latvia",
+                "rank": 16
+            },
+            {
+                "country": "Lithuania",
+                "rank": 11
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 25
+            },
+            {
+                "country": "Malta",
+                "rank": 22
+            },
+            {
+                "country": "Netherlands",
+                "rank": 7
+            },
+            {
+                "country": "Norway",
+                "rank": 9
+            },
+            {
+                "country": "Poland",
+                "rank": 20
+            },
+            {
+                "country": "Portugal",
+                "rank": 10
+            },
+            {
+                "country": "San Marino",
+                "rank": 26
+            },
+            {
+                "country": "Spain",
+                "rank": 24
+            },
+            {
+                "country": "Sweden",
+                "rank": 5
+            },
+            {
+                "country": "Switzerland",
+                "rank": 3
+            },
+            {
+                "country": "Ukraine",
+                "rank": 6
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 21
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 3
+            },
+            {
+                "country": "Armenia",
+                "rank": 25
+            },
+            {
+                "country": "Austria",
+                "rank": 2
+            },
+            {
+                "country": "Denmark",
+                "rank": 26
+            },
+            {
+                "country": "Estonia",
+                "rank": 4
+            },
+            {
+                "country": "Finland",
+                "rank": 11
+            },
+            {
+                "country": "France",
+                "rank": 15
+            },
+            {
+                "country": "Germany",
+                "rank": 12
+            },
+            {
+                "country": "Greece",
+                "rank": 17
+            },
+            {
+                "country": "Iceland",
+                "rank": 10
+            },
+            {
+                "country": "Israel",
+                "rank": 5
+            },
+            {
+                "country": "Italy",
+                "rank": 1
+            },
+            {
+                "country": "Latvia",
+                "rank": 19
+            },
+            {
+                "country": "Lithuania",
+                "rank": 14
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 7
+            },
+            {
+                "country": "Malta",
+                "rank": 23
+            },
+            {
+                "country": "Netherlands",
+                "rank": 13
+            },
+            {
+                "country": "Norway",
+                "rank": 9
+            },
+            {
+                "country": "Poland",
+                "rank": 16
+            },
+            {
+                "country": "Portugal",
+                "rank": 18
+            },
+            {
+                "country": "San Marino",
+                "rank": 22
+            },
+            {
+                "country": "Spain",
+                "rank": 21
+            },
+            {
+                "country": "Sweden",
+                "rank": 6
+            },
+            {
+                "country": "Switzerland",
+                "rank": 20
+            },
+            {
+                "country": "Ukraine",
+                "rank": 8
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 24
+            }
+        ]
+    },
+    "Spain": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 10
+            },
+            {
+                "country": "Armenia",
+                "rank": 19
+            },
+            {
+                "country": "Austria",
+                "rank": 4
+            },
+            {
+                "country": "Denmark",
+                "rank": 16
+            },
+            {
+                "country": "Estonia",
+                "rank": 24
+            },
+            {
+                "country": "Finland",
+                "rank": 17
+            },
+            {
+                "country": "France",
+                "rank": 3
+            },
+            {
+                "country": "Germany",
+                "rank": 8
+            },
+            {
+                "country": "Greece",
+                "rank": 20
+            },
+            {
+                "country": "Iceland",
+                "rank": 22
+            },
+            {
+                "country": "Israel",
+                "rank": 18
+            },
+            {
+                "country": "Italy",
+                "rank": 7
+            },
+            {
+                "country": "Latvia",
+                "rank": 12
+            },
+            {
+                "country": "Lithuania",
+                "rank": 15
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 13
+            },
+            {
+                "country": "Malta",
+                "rank": 6
+            },
+            {
+                "country": "Netherlands",
+                "rank": 2
+            },
+            {
+                "country": "Norway",
+                "rank": 21
+            },
+            {
+                "country": "Poland",
+                "rank": 14
+            },
+            {
+                "country": "Portugal",
+                "rank": 23
+            },
+            {
+                "country": "San Marino",
+                "rank": 25
+            },
+            {
+                "country": "Sweden",
+                "rank": 11
+            },
+            {
+                "country": "Switzerland",
+                "rank": 1
+            },
+            {
+                "country": "Ukraine",
+                "rank": 9
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 5
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 8
+            },
+            {
+                "country": "Armenia",
+                "rank": 13
+            },
+            {
+                "country": "Austria",
+                "rank": 7
+            },
+            {
+                "country": "Denmark",
+                "rank": 20
+            },
+            {
+                "country": "Estonia",
+                "rank": 4
+            },
+            {
+                "country": "Finland",
+                "rank": 5
+            },
+            {
+                "country": "France",
+                "rank": 10
+            },
+            {
+                "country": "Germany",
+                "rank": 14
+            },
+            {
+                "country": "Greece",
+                "rank": 15
+            },
+            {
+                "country": "Iceland",
+                "rank": 17
+            },
+            {
+                "country": "Israel",
+                "rank": 1
+            },
+            {
+                "country": "Italy",
+                "rank": 11
+            },
+            {
+                "country": "Latvia",
+                "rank": 22
+            },
+            {
+                "country": "Lithuania",
+                "rank": 19
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 25
+            },
+            {
+                "country": "Malta",
+                "rank": 18
+            },
+            {
+                "country": "Netherlands",
+                "rank": 12
+            },
+            {
+                "country": "Norway",
+                "rank": 9
+            },
+            {
+                "country": "Poland",
+                "rank": 3
+            },
+            {
+                "country": "Portugal",
+                "rank": 16
+            },
+            {
+                "country": "San Marino",
+                "rank": 21
+            },
+            {
+                "country": "Sweden",
+                "rank": 6
+            },
+            {
+                "country": "Switzerland",
+                "rank": 23
+            },
+            {
+                "country": "Ukraine",
+                "rank": 2
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 24
+            }
+        ]
+    },
+    "Sweden": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 8
+            },
+            {
+                "country": "Armenia",
+                "rank": 17
+            },
+            {
+                "country": "Austria",
+                "rank": 1
+            },
+            {
+                "country": "Denmark",
+                "rank": 22
+            },
+            {
+                "country": "Estonia",
+                "rank": 11
+            },
+            {
+                "country": "Finland",
+                "rank": 5
+            },
+            {
+                "country": "France",
+                "rank": 4
+            },
+            {
+                "country": "Germany",
+                "rank": 18
+            },
+            {
+                "country": "Greece",
+                "rank": 16
+            },
+            {
+                "country": "Iceland",
+                "rank": 20
+            },
+            {
+                "country": "Israel",
+                "rank": 12
+            },
+            {
+                "country": "Italy",
+                "rank": 15
+            },
+            {
+                "country": "Latvia",
+                "rank": 13
+            },
+            {
+                "country": "Lithuania",
+                "rank": 19
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 14
+            },
+            {
+                "country": "Malta",
+                "rank": 10
+            },
+            {
+                "country": "Netherlands",
+                "rank": 3
+            },
+            {
+                "country": "Norway",
+                "rank": 7
+            },
+            {
+                "country": "Poland",
+                "rank": 21
+            },
+            {
+                "country": "Portugal",
+                "rank": 24
+            },
+            {
+                "country": "San Marino",
+                "rank": 23
+            },
+            {
+                "country": "Spain",
+                "rank": 9
+            },
+            {
+                "country": "Switzerland",
+                "rank": 2
+            },
+            {
+                "country": "Ukraine",
+                "rank": 6
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 25
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 4
+            },
+            {
+                "country": "Armenia",
+                "rank": 20
+            },
+            {
+                "country": "Austria",
+                "rank": 11
+            },
+            {
+                "country": "Denmark",
+                "rank": 13
+            },
+            {
+                "country": "Estonia",
+                "rank": 3
+            },
+            {
+                "country": "Finland",
+                "rank": 2
+            },
+            {
+                "country": "France",
+                "rank": 17
+            },
+            {
+                "country": "Germany",
+                "rank": 12
+            },
+            {
+                "country": "Greece",
+                "rank": 8
+            },
+            {
+                "country": "Iceland",
+                "rank": 6
+            },
+            {
+                "country": "Israel",
+                "rank": 1
+            },
+            {
+                "country": "Italy",
+                "rank": 10
+            },
+            {
+                "country": "Latvia",
+                "rank": 16
+            },
+            {
+                "country": "Lithuania",
+                "rank": 15
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 19
+            },
+            {
+                "country": "Malta",
+                "rank": 25
+            },
+            {
+                "country": "Netherlands",
+                "rank": 9
+            },
+            {
+                "country": "Norway",
+                "rank": 14
+            },
+            {
+                "country": "Poland",
+                "rank": 5
+            },
+            {
+                "country": "Portugal",
+                "rank": 23
+            },
+            {
+                "country": "San Marino",
+                "rank": 22
+            },
+            {
+                "country": "Spain",
+                "rank": 18
+            },
+            {
+                "country": "Switzerland",
+                "rank": 21
+            },
+            {
+                "country": "Ukraine",
+                "rank": 7
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 24
+            }
+        ]
+    },
+    "Switzerland": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 15
+            },
+            {
+                "country": "Armenia",
+                "rank": 21
+            },
+            {
+                "country": "Austria",
+                "rank": 4
+            },
+            {
+                "country": "Denmark",
+                "rank": 22
+            },
+            {
+                "country": "Estonia",
+                "rank": 6
+            },
+            {
+                "country": "Finland",
+                "rank": 8
+            },
+            {
+                "country": "France",
+                "rank": 3
+            },
+            {
+                "country": "Germany",
+                "rank": 12
+            },
+            {
+                "country": "Greece",
+                "rank": 11
+            },
+            {
+                "country": "Iceland",
+                "rank": 20
+            },
+            {
+                "country": "Israel",
+                "rank": 14
+            },
+            {
+                "country": "Italy",
+                "rank": 1
+            },
+            {
+                "country": "Latvia",
+                "rank": 13
+            },
+            {
+                "country": "Lithuania",
+                "rank": 18
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 23
+            },
+            {
+                "country": "Malta",
+                "rank": 24
+            },
+            {
+                "country": "Netherlands",
+                "rank": 5
+            },
+            {
+                "country": "Norway",
+                "rank": 19
+            },
+            {
+                "country": "Poland",
+                "rank": 25
+            },
+            {
+                "country": "Portugal",
+                "rank": 9
+            },
+            {
+                "country": "San Marino",
+                "rank": 17
+            },
+            {
+                "country": "Spain",
+                "rank": 16
+            },
+            {
+                "country": "Sweden",
+                "rank": 2
+            },
+            {
+                "country": "Ukraine",
+                "rank": 10
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 7
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 2
+            },
+            {
+                "country": "Armenia",
+                "rank": 25
+            },
+            {
+                "country": "Austria",
+                "rank": 5
+            },
+            {
+                "country": "Denmark",
+                "rank": 23
+            },
+            {
+                "country": "Estonia",
+                "rank": 9
+            },
+            {
+                "country": "Finland",
+                "rank": 16
+            },
+            {
+                "country": "France",
+                "rank": 7
+            },
+            {
+                "country": "Germany",
+                "rank": 11
+            },
+            {
+                "country": "Greece",
+                "rank": 4
+            },
+            {
+                "country": "Iceland",
+                "rank": 14
+            },
+            {
+                "country": "Israel",
+                "rank": 1
+            },
+            {
+                "country": "Italy",
+                "rank": 3
+            },
+            {
+                "country": "Latvia",
+                "rank": 20
+            },
+            {
+                "country": "Lithuania",
+                "rank": 21
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 19
+            },
+            {
+                "country": "Malta",
+                "rank": 24
+            },
+            {
+                "country": "Netherlands",
+                "rank": 10
+            },
+            {
+                "country": "Norway",
+                "rank": 18
+            },
+            {
+                "country": "Poland",
+                "rank": 8
+            },
+            {
+                "country": "Portugal",
+                "rank": 12
+            },
+            {
+                "country": "San Marino",
+                "rank": 17
+            },
+            {
+                "country": "Spain",
+                "rank": 13
+            },
+            {
+                "country": "Sweden",
+                "rank": 6
+            },
+            {
+                "country": "Ukraine",
+                "rank": 15
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 22
+            }
+        ]
+    },
+    "Ukraine": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 12
+            },
+            {
+                "country": "Armenia",
+                "rank": 15
+            },
+            {
+                "country": "Austria",
+                "rank": 10
+            },
+            {
+                "country": "Denmark",
+                "rank": 21
+            },
+            {
+                "country": "Estonia",
+                "rank": 6
+            },
+            {
+                "country": "Finland",
+                "rank": 14
+            },
+            {
+                "country": "France",
+                "rank": 11
+            },
+            {
+                "country": "Germany",
+                "rank": 1
+            },
+            {
+                "country": "Greece",
+                "rank": 20
+            },
+            {
+                "country": "Iceland",
+                "rank": 24
+            },
+            {
+                "country": "Israel",
+                "rank": 9
+            },
+            {
+                "country": "Italy",
+                "rank": 3
+            },
+            {
+                "country": "Latvia",
+                "rank": 5
+            },
+            {
+                "country": "Lithuania",
+                "rank": 17
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 8
+            },
+            {
+                "country": "Malta",
+                "rank": 19
+            },
+            {
+                "country": "Netherlands",
+                "rank": 18
+            },
+            {
+                "country": "Norway",
+                "rank": 16
+            },
+            {
+                "country": "Poland",
+                "rank": 22
+            },
+            {
+                "country": "Portugal",
+                "rank": 7
+            },
+            {
+                "country": "San Marino",
+                "rank": 25
+            },
+            {
+                "country": "Spain",
+                "rank": 23
+            },
+            {
+                "country": "Sweden",
+                "rank": 13
+            },
+            {
+                "country": "Switzerland",
+                "rank": 4
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 2
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 11
+            },
+            {
+                "country": "Armenia",
+                "rank": 19
+            },
+            {
+                "country": "Austria",
+                "rank": 5
+            },
+            {
+                "country": "Denmark",
+                "rank": 22
+            },
+            {
+                "country": "Estonia",
+                "rank": 9
+            },
+            {
+                "country": "Finland",
+                "rank": 14
+            },
+            {
+                "country": "France",
+                "rank": 17
+            },
+            {
+                "country": "Germany",
+                "rank": 6
+            },
+            {
+                "country": "Greece",
+                "rank": 24
+            },
+            {
+                "country": "Iceland",
+                "rank": 16
+            },
+            {
+                "country": "Israel",
+                "rank": 10
+            },
+            {
+                "country": "Italy",
+                "rank": 4
+            },
+            {
+                "country": "Latvia",
+                "rank": 3
+            },
+            {
+                "country": "Lithuania",
+                "rank": 1
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 18
+            },
+            {
+                "country": "Malta",
+                "rank": 15
+            },
+            {
+                "country": "Netherlands",
+                "rank": 12
+            },
+            {
+                "country": "Norway",
+                "rank": 2
+            },
+            {
+                "country": "Poland",
+                "rank": 8
+            },
+            {
+                "country": "Portugal",
+                "rank": 13
+            },
+            {
+                "country": "San Marino",
+                "rank": 23
+            },
+            {
+                "country": "Spain",
+                "rank": 25
+            },
+            {
+                "country": "Sweden",
+                "rank": 7
+            },
+            {
+                "country": "Switzerland",
+                "rank": 20
+            },
+            {
+                "country": "United Kingdom",
+                "rank": 21
+            }
+        ]
+    },
+    "United Kingdom": {
+        "jury": [
+            {
+                "country": "Albania",
+                "rank": 24
+            },
+            {
+                "country": "Armenia",
+                "rank": 13
+            },
+            {
+                "country": "Austria",
+                "rank": 3
+            },
+            {
+                "country": "Denmark",
+                "rank": 2
+            },
+            {
+                "country": "Estonia",
+                "rank": 8
+            },
+            {
+                "country": "Finland",
+                "rank": 6
+            },
+            {
+                "country": "France",
+                "rank": 9
+            },
+            {
+                "country": "Germany",
+                "rank": 18
+            },
+            {
+                "country": "Greece",
+                "rank": 10
+            },
+            {
+                "country": "Iceland",
+                "rank": 23
+            },
+            {
+                "country": "Israel",
+                "rank": 22
+            },
+            {
+                "country": "Italy",
+                "rank": 20
+            },
+            {
+                "country": "Latvia",
+                "rank": 1
+            },
+            {
+                "country": "Lithuania",
+                "rank": 5
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 7
+            },
+            {
+                "country": "Malta",
+                "rank": 4
+            },
+            {
+                "country": "Netherlands",
+                "rank": 17
+            },
+            {
+                "country": "Norway",
+                "rank": 14
+            },
+            {
+                "country": "Poland",
+                "rank": 19
+            },
+            {
+                "country": "Portugal",
+                "rank": 16
+            },
+            {
+                "country": "San Marino",
+                "rank": 25
+            },
+            {
+                "country": "Spain",
+                "rank": 15
+            },
+            {
+                "country": "Sweden",
+                "rank": 11
+            },
+            {
+                "country": "Switzerland",
+                "rank": 12
+            },
+            {
+                "country": "Ukraine",
+                "rank": 21
+            }
+        ],
+        "public": [
+            {
+                "country": "Albania",
+                "rank": 6
+            },
+            {
+                "country": "Armenia",
+                "rank": 19
+            },
+            {
+                "country": "Austria",
+                "rank": 12
+            },
+            {
+                "country": "Denmark",
+                "rank": 16
+            },
+            {
+                "country": "Estonia",
+                "rank": 5
+            },
+            {
+                "country": "Finland",
+                "rank": 7
+            },
+            {
+                "country": "France",
+                "rank": 23
+            },
+            {
+                "country": "Germany",
+                "rank": 13
+            },
+            {
+                "country": "Greece",
+                "rank": 9
+            },
+            {
+                "country": "Iceland",
+                "rank": 11
+            },
+            {
+                "country": "Israel",
+                "rank": 1
+            },
+            {
+                "country": "Italy",
+                "rank": 15
+            },
+            {
+                "country": "Latvia",
+                "rank": 8
+            },
+            {
+                "country": "Lithuania",
+                "rank": 3
+            },
+            {
+                "country": "Luxembourg",
+                "rank": 20
+            },
+            {
+                "country": "Malta",
+                "rank": 10
+            },
+            {
+                "country": "Netherlands",
+                "rank": 18
+            },
+            {
+                "country": "Norway",
+                "rank": 24
+            },
+            {
+                "country": "Poland",
+                "rank": 2
+            },
+            {
+                "country": "Portugal",
+                "rank": 21
+            },
+            {
+                "country": "San Marino",
+                "rank": 25
+            },
+            {
+                "country": "Spain",
+                "rank": 17
+            },
+            {
+                "country": "Sweden",
+                "rank": 4
+            },
+            {
+                "country": "Switzerland",
+                "rank": 22
+            },
+            {
+                "country": "Ukraine",
+                "rank": 14
+            }
+        ]
+    }
+}
