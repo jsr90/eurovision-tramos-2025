@@ -28,7 +28,7 @@ En lugar de asignar puntos únicamente a los 10 primeros puestos, se otorgan pun
 ## Uso
 
 1. Asegúrate de tener Python 3 y las librerías necesarias (`pandas`, etc.).
-2. Ejecuta el cuaderno `test.ipynb` para reproducir el análisis y generar los archivos Excel.
+2. Ejecuta el cuaderno `README.ipynb` para reproducir el análisis y generar los archivos Excel.
 3. Analiza los resultados en los archivos Excel generados.
 
 ## Créditos
